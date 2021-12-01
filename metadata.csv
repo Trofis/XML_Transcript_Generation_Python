@@ -1,0 +1,10 @@
+référence;audio filename;scribe;version;version date;id speaker 1;name speaker 1;dialect speaker 1;id speaker 2;name speaker 2;dialect speaker 2;id speaker 3;name speaker 3;dialect speaker 3
+ESLO2_ENT_1001_C.trs;ESLO2_ENT_1001;Jessica THORET;22;131128;spk1;ch_OB1;native;spk2;BV1;native;spk3;BV1AMI;native
+ESLO2_ENT_1002_C.trs;ESLO2_ENT_1002;a.rochon;19;131004;spk1;ch_CD2;native;spk2;RL2;native
+ESLO2_ENT_1008_C.trs;ESLO2_ENT_8;arochon;25;120612;spk1;ch_GC4;native;spk2;HF8;native;spk4;HF8MAR;native
+ESLO2_ENTJEUN_1234_C.trs;ESLO2_ENTJEUN_07;Ophélie GUERIN;18;140325;spk1;WT075;native;spk2;WZ853;native
+ESLO2_ENTJEUN_1235_C.trs;ESLO2_ENTJEUN_08;Ophélie GUERIN;24;140325;spk1;DC528;native;spk2;CC423;native
+ESLO2_ENTJEUN_1236_C.trs;ESLO2_ENTJEUN_09;ophélie;17;140318;spk1;DC528;native;spk2;ZZ431;native
+ESLO2_ITI_1167_C.trs;ESLO2_iti_12_05;Asceline Goudjo;8;131127;spk1;XR196;native;spk2;MS592;native
+ESLO2_ITI_1168_C.trs;ESLO2_iti_12_07;Asceline Goudjo;10;131127;spk1;QM631;native;spk2;TT848;native;spk4;TT848INC;native
+ESLO2_ITI_1169_C.trs;ESLO2_iti_12_08;Asceline Goudjo;7;131127;spk1;GD202;native;spk2;DD347;native

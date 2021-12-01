@@ -1,0 +1,2339 @@
+id Turn;time;speaker;simultaneous;text;event
+1;0;spk1;-;donc euh;-
+1;1.791;spk1;-;peut-être pour commencer une euh;-
+1;4.712;-;spk1;-;bb
+2;5.048;spk1;-;vous pourriez euh;-
+2;7.145;spk1;-;me parler un petit peu de votre parcours euh personnel et enfin;-
+3;10.962;spk2;-;hm;-
+4;11.37;spk1;-;depuis combien de temps est-ce que vous êtes originaire d'Orléans ou de sa région ?;-
+5;15.072;spk1;spk1 spk2;ou;-
+5;15.072;spk2;spk1 spk2;hm hm;-
+6;15.871;spk1;-;pas;-
+6;16.429;spk1;-;et euh;-
+7;17.371;spk1;spk1 spk2;-;rire
+7;17.371;spk2;spk1 spk2;alors mon parcours;-
+8;19.496;spk2;-;euh bah moi je suis de la banlieue parisienne;-
+9;21.808;spk1;-;d'accord;-
+10;22.438;spk2;-;donc euh banlieue nord de Paris;-
+11;24.39;spk1;-;d'accord;-
+12;25.044;spk2;-;j'ai été élevée euh dans une cité HLM;-
+13;27.308;spk1;-;hm;-
+14;28.515;spk2;-;et euh assez longtemps quand même et puis euh;-
+14;31.596;spk2;-;lorsque j'ai rencontré donc euh le père de Marine;-
+14;34.792;spk2;-;euh;-
+14;36.594;spk2;-;il vivait aussi dans une cité HLM mais une autre cité HLM;-
+14;39.796;spk2;-;lorsqu'on s'est rencontré il était plus âgé que moi;-
+14;42.493;spk2;-;euh bah qu'on a décidé de construire euh;-
+14;45.334;spk2;-;une vie euh de famille ensemble;-
+14;47.765;spk2;-;euh on a un peu réfléchi sur ce que euh s-;-
+14;52.127;spk2;-;que la vie était en banlieue;-
+15;53.718;spk2;spk2 spk1;ce qu'on avait vécu;-
+15;53.718;spk1;spk2 spk1;oui oui;-
+16;55.305;spk2;-;et on s'est dit euh ben on n'a pas envie euh;-
+17;57.545;spk2;spk2 spk1;on avait pas envie de euh proposer ça à nos enfants;-
+17;57.545;spk1;spk2 spk1;de ça ouais hm;-
+18;60.771;spk2;-;donc euh;-
+18;62.235;spk2;-;bon c'était assez compliqué moi j'étais jeune hein je l'ai rencontré j'avais euh;-
+18;65.704;spk2;-;quinze ans;-
+19;66.526;spk1;-;oui;-
+20;66.983;spk2;spk2 spk1;on s'est marié très enfin moi j'étais très jeune lui il était plus âgé;-
+20;66.983;spk1;spk2 spk1;-;rire
+21;70.401;spk2;-;donc euh c'était des décisions;-
+21;72.281;spk2;-;et puis on avait aussi envie de prendre de la distance avec la famille;-
+22;74.81;spk1;-;oui;-
+23;75.175;spk2;-;donc;-
+24;75.805;spk2;spk2 spk1;euh on voulait pas partir loin mais euh on voulait partir donc euh lui;-
+24;75.805;spk1;spk2 spk1;bah à cet âge-là ça se euh oui mais quand même;-
+24;75.805;spk1;spk2 spk1;-;rire
+25;79.704;spk2;-;il travaillait à à l'époque moi j'avais des emplois un peu plus précaires;-
+25;83.411;spk2;-;parce que j'étais pas euh;-
+25;85.147;spk2;-;j'avais un CAP de comptable;-
+26;87.027;spk1;-;ouais;-
+27;87.681;spk2;spk2 spk1;que j'ai toujours d'ailleurs;-
+27;87.681;spk1;spk2 spk1;oui;-
+28;88.864;-;spk1;-;rire
+29;89.614;spk2;-;et euh donc je travaillais euh avec des petits contrats;-
+29;92.96;spk2;-;et puis on a décidé donc de partir lui il a demandé une mutation il travaillait dans une entreprise euh;-
+29;97.984;spk2;-;il y est toujours d'ailleurs à l'époque il était euh;-
+29;100.97;spk2;-;il est rentré comme simple représentant;-
+30;103.07;spk2;spk2 spk1;vendeur quoi les;-
+30;103.07;spk1;spk2 spk1;oui;-
+31;104.705;spk2;-;il démarchait pas mal à domicile;-
+31;107.114;spk2;-;et puis euh en fait euh;-
+31;109.1;spk2;-;il a demandé une mutation ça s'est fait assez rapidement;-
+31;111.423;spk2;-;il a été muté sur euh Lailly-en-Val;-
+32;114.341;spk1;-;c'est euh;-
+33;115.259;spk2;-;c'est euh;-
+33;116.049;spk2;-;Beaugency;-
+34;116.783;spk1;-;d'accord;-
+35;117.384;spk2;-;voilà;-
+35;118.826;spk2;-;donc euh il a été muté et;-
+35;120.393;spk2;-;puis en même temps il a eu un poste on lui a proposé un poste plus élevé;-
+35;123.663;spk2;-;plus intéressant donc euh on;-
+35;125.754;spk2;-;moi j'avais déjà euh on avait déjà Marine a un grand frère;-
+35;129.095;spk2;-;qui a aujourd'hui vingt-six ans et demi;-
+36;131.071;spk1;-;ouais;-
+37;131.773;spk2;-;donc euh;-
+37;133.749;spk2;-;on est venu avec Nicolas donc qui avait deux ans;-
+37;136.037;spk2;-;et puis bah ça correspondait tout à fait bah c'était la campagne euh;-
+38;139.86;spk2;spk2 spk1;le petit village euh;-
+38;139.86;spk1;spk2 spk1;et donc vous viviez là-bas;-
+39;141.4;spk1;-;ou déjà à Orléans ?;-
+40;142.341;spk2;-;ah non donc on a déménagé et ça s'est fait en deux mois;-
+41;144.702;spk1;-;d'accord;-
+42;145.23;spk2;-;on est arrivé là très rapidement en deux mois on a pas trop réfléchi;-
+43;148.841;spk2;spk2 spk1;on s'est dit allez on est jeune moi j'avais;-
+43;148.841;spk1;spk2 spk1;oui;-
+43;148.841;spk1;spk2 spk1;-;rire
+44;151.057;spk2;-;vingt et un ans euh lui avait vingt euh sept vingt-huit ans;-
+44;155.749;spk2;-;donc voilà on est parti;-
+45;157.028;-;spk1;-;rire
+46;157.586;spk2;spk2 spk1;l'enfant sous le bras;-
+46;157.586;spk1;spk2 spk1;-;rire
+47;159.201;spk1;-;les valises;-
+48;159.879;spk2;spk2 spk1;voilà donc;-
+48;159.879;spk1;spk2 spk1;-;rire
+49;160.461;spk2;-;lui travaillait moi je ne travaillais pas j'avais pas mon permis à l'époque;-
+49;164.119;spk2;-;vous me dites hein si je m'étale un peu trop;-
+50;165.639;spk1;-;ah non non non;-
+50;165.639;-;spk1;-;rire
+51;166.702;spk2;spk2 spk1;j'avais pas mon permis à l'époque;-
+51;166.702;spk1;spk2 spk1;-;rire
+52;168.293;spk2;-;donc à Paris j'en avais pas forcément besoin bon;-
+53;170.678;spk2;spk2 spk1;nous on habitait;-
+53;170.678;spk1;spk2 spk1;non;-
+54;171.455;spk2;-;alors ensuite on s'était rapproché de Paris on habitait Villemont;-
+55;174.457;spk2;-;c'est une banlieue un peu plus;-
+55;176.41;spk2;-;plus chic quand même;-
+56;177.274;spk1;-;oui;-
+57;177.731;spk2;-;et puis on avait des ambitions oui de d'autres choses en fait;-
+57;182.664;spk2;-;donc euh on est arrivé ici euh ouh là moi ça a été le choc;-
+58;186.683;spk2;spk2 spk1;pour moi ouais;-
+58;186.683;spk1;spk2 spk1;parce que vous vous aviez toujours vécu euh ?;-
+58;189.14;spk2;spk2 spk1;bah j'avais pas besoin de voiture enfin j'utilisais beaucoup les transports en commun euh;-
+58;189.14;spk1;spk2 spk1;en ban- enfin dans la ville ou euh oui oui;-
+59;194.409;spk2;-;j'avais tout réseau amical là-bas euh bah lui aussi mais bon euh;-
+59;198.741;spk2;-;d'un seul coup moi je suis arrivée ici sans travail;-
+60;201.102;spk1;-;oui en plus;-
+61;201.828;spk2;-;je me suis retrouvée dans une maison en pleine campagne on l'avait choisie hein je;-
+62;205.391;spk2;spk2 spk1;mais je me suis dit ouh là est-ce que tu as bien réfléchi ? et puis voilà et puis;-
+62;205.391;spk1;spk2 spk1;-;rire
+63;211.478;spk2;-;et puis je me suis dit euh;-
+63;212.997;spk2;-;tu as fait un choix bah hein f- tu faut l'assumer et puis euh faut essayer ça va être long;-
+63;217.834;spk2;-;ça va me demander de l'énergie euh;-
+63;220.555;spk2;-;et puis bah petit à petit j'ai mis un an quand même;-
+64;222.363;spk2;spk2 spk1;à me faire;-
+64;222.363;spk1;spk2 spk1;oui;-
+65;222.871;spk2;-;à la région;-
+65;223.882;spk2;-;aux gens de la région;-
+66;225.137;spk1;-;oui;-
+67;225.911;spk2;spk2 spk1;c'était assez difficile;-
+67;225.911;spk1;spk2 spk1;oui puis c'est vrai;-
+68;227.006;spk1;-;que sans tra- en ne travaillant pas;-
+69;228.849;spk1;spk1 spk2;c'est euh aussi peut-être plus compliqué encore euh;-
+69;228.849;spk2;spk1 spk2;ouais ouais;-
+70;231.786;spk2;-;bah oui et puis bah Nicolas avait deux ans il était pas scolarisé encore;-
+71;234.988;spk2;spk2 spk1;bah je tenais à être euh encore proche de lui enfin à à l'accompagner encore un petit peu donc euh;-
+71;234.988;spk1;spk2 spk1;ouais hm hm oui hm hm;-
+72;240.233;spk2;-;ensuite bah il est allé j'ai passé mon permis hein je suis repassée je suis retournée très vite sur Paris euh;-
+72;246.108;spk2;-;en deux semaines euh j'ai fait en accéléré hein je l'ai fait avec;-
+73;248.925;spk2;spk2 spk1;mais j'ai eu mon permis rapidement;-
+73;248.925;spk1;spk2 spk1;-;rire
+73;250.464;spk2;spk2 spk1;oui j'ai vu un peu la campagne autrement;-
+73;250.464;spk1;spk2 spk1;ouais à la campagne c'est indispensable;-
+73;253.185;spk2;spk2 spk1;parce que là j'étais tributaire;-
+73;253.185;spk1;spk2 spk1;-;rire
+74;255.175;spk2;-;en fait pour les courses pour tout parce qu'on était vraiment euh;-
+74;257.998;spk2;-;hors de la ville;-
+75;258.692;spk2;spk2 spk1;donc euh;-
+75;258.692;spk1;spk2 spk1;d'accord d'accord;-
+76;260.118;spk2;-;c'est assez compliqué;-
+76;260.892;spk2;-;on marchait beaucoup mais bon euh;-
+77;262.988;spk2;spk2 spk1;y avait des choses qu'on pouvait pas aller à pieds mais bon;-
+77;262.988;spk1;spk2 spk1;oui c'est pas toujours possible hm;-
+78;265.753;spk2;-;hm hm et puis j'avais envie d'autonomie aussi;-
+79;268.138;spk2;spk2 spk1;et pas de d'ar- d'arriver à la campagne mais de devenir dépendante de mon mari et de;-
+79;268.138;spk1;spk2 spk1;oui bah oui oui hm hm hm hm hm hm hm;-
+79;272.59;spk2;spk2 spk1;et puis bon des voisins;-
+79;272.59;spk1;spk2 spk1;ouais;-
+79;274.854;spk2;spk2 spk1;donc voilà;-
+79;274.854;spk1;spk2 spk1;ouais;-
+80;275.585;spk2;-;donc je l'ai passé très rapidement;-
+80;277.695;spk2;-;ensuite euh;-
+80;279.604;spk2;-;eh bien;-
+80;279.604;-;spk2;-;pf
+80;282.109;spk2;-;franchement;-
+80;282.109;-;spk2;-;pf
+80;283.821;spk2;-;on a un trouvé un peu une place ici;-
+80;286.759;spk2;-;euh;-
+80;288.398;spk2;-;moi j'ai trouvé du travail petit à petit et puis euh;-
+80;288.398;-;spk2;-;pf
+80;292.177;spk2;-;très jeune je voulais pas euh être comptable hein;-
+80;295.211;spk2;-;c'était un petit peu à l'époque on était un petit peu guidé euh;-
+80;298.336;spk2;-;pendant les études on n'avait pas trop le choix hein;-
+80;300.624;spk2;-;on par le de ça c'était en quatre-vingt soixante-dix-neuf;-
+81;302.985;spk2;spk2 spk1;quatre-vingt;-
+81;302.985;spk1;spk2 spk1;ouais ouais;-
+82;304.355;spk2;-;c'était euh on n'était pas forcément bon à l'école euh on cherchait pas forcément à nous aider ou à comprendre pourquoi;-
+82;309.817;spk2;-;c'était bah toi tu feras un CAP euh;-
+83;312.394;spk2;spk2 spk1;toi tu feras ceci euh;-
+83;312.394;spk1;spk2 spk1;hm hm hm;-
+84;313.956;spk2;-;moi j'ai su j'ai jamais;-
+85;315.212;spk2;spk2 spk1;j'ai jamais été rebelle;-
+85;315.212;spk1;spk2 spk1;-;rire
+85;317.23;spk2;spk2 spk1;j'ai suivi un peu le mouvement mais j'avais toujours un peu dans l'idée un jour je ferai ce que je veux et voilà;-
+85;317.23;spk1;spk2 spk1;-;rire
+86;323.293;spk2;-;je me donnerai les moyens d'y arriver;-
+86;325.63;spk2;-;donc euh je cheminais tranquillement;-
+86;328.832;spk2;-;ensuite euh bah euh Marine est arrivée;-
+86;333.765;spk2;-;et euh en fait euh j'ai travaillé je faisais des petits boulots hein toujours dans le secrétariat dans la comptabilité mais je m'éclatais;-
+87;340.02;spk2;spk2 spk1;pas vraiment mais bon ça m'occupait quelque part Nicolas était à l'école donc ça m'occupait;-
+87;340.02;spk1;spk2 spk1;hm hm hm oui oui oui;-
+88;344.544;spk2;-;et puis je voyais des gens j'échangeais;-
+88;346.784;spk2;-;bah pas je dis pas que c'était pas très profond;-
+89;349.486;spk2;spk2 spk1;mais bon bah je voyais des gens ça me ça me permettait de pas;-
+89;349.486;spk1;spk2 spk1;-;rire
+90;354.539;spk2;-;voilà comment dire euh ?;-
+91;356.447;spk2;spk2 spk1;embêter mon mari le soir quand il rentrait non mais c'est vrai que c'est important;-
+91;356.447;spk1;spk2 spk1;-;rire
+91;360.466;spk2;spk2 spk1;de pas déverser sur lui toute cette euh;-
+91;360.466;spk1;spk2 spk1;-;rire
+91;364.149;spk2;spk2 spk1;tout ce que j'avais mal vécu dans la journée donc;-
+91;364.149;spk1;spk2 spk1;-;rire
+92;367.808;spk2;-;euh voilà euh j'ai donc eu Marine en quatre-vingt-huit;-
+92;371.899;spk2;-;et puis je me suis dit euh;-
+92;373.995;spk2;-;euh le fait d'arrêter de travailler sur ce congé-là je me suis dit c'est le moment ou jamais;-
+93;378.88;spk2;spk2 spk1;si tu le fais pas maintenant tu le feras;-
+93;378.88;spk1;spk2 spk1;de faire autre chose hm;-
+94;381.04;spk2;-;plus jamais;-
+94;382.13;spk2;-;et euh j'avais une en- une envie depuis mais de nombreuses années hein je;-
+94;385.741;spk2;-;me souviens en cinq sixième déjà je disais quand on me demandait qu'est-ce que tu veux faire je disais;-
+94;390.001;spk2;-;je veux être éducatrice;-
+94;391.4;spk2;-;c'était vraiment;-
+95;392.454;spk2;spk2 spk1;mon truc et euh;-
+95;392.454;spk1;spk2 spk1;hm hm hm;-
+96;393.785;spk2;-;souvent on m'a rigolé au nez;-
+97;395.108;spk2;spk2 spk1;hein tu y arriveras jamais;-
+97;395.108;spk1;spk2 spk1;ouais ouais;-
+98;396.76;spk2;-;c'est bouché enfin;-
+99;398.309;spk2;-;enfin vraiment euh j'ai eu euh oui de la part de plein de gens euh même euh;-
+100;402.328;spk2;-;bah ma famille hein n'y croyait enfin bah voilà;-
+101;405.458;spk2;spk2 spk1;et puis là;-
+101;405.458;spk1;spk2 spk1;ouais;-
+102;406.092;spk2;-;je me suis dit bah de toute façon tu as tout entre les mains hein c'est à toi de euh;-
+103;409.064;spk1;-;hm hm hm;-
+104;409.718;spk2;spk2 spk1;de d'y aller de faire les choses;-
+104;409.718;spk1;spk2 spk1;d'y aller;-
+105;412.079;spk2;-;et donc je je suis allée dans une école de travail social et puis euh;-
+106;417.517;spk2;spk2 spk1;et j'ai;-
+106;417.517;spk1;spk2 spk1;et là c'est euh;-
+107;419.709;spk1;-;comment ça se passe ? il y a un conc- ça y avait un;-
+108;421.762;spk2;spk2 spk1;mais en fait;-
+108;421.762;spk1;spk2 spk1;concours y avait;-
+109;422.838;spk2;-;j'ai pas euh;-
+109;424.394;spk2;-;il lui fallait euh un employeur;-
+109;426.406;spk2;-;parce que entre temps euh on s'est séparé;-
+110;429.623;spk2;spk2 spk1;avec mon mari;-
+110;429.623;spk1;spk2 spk1;hm;-
+111;430.353;spk2;-;donc je me suis retrouvée seule avec euh les deux enfants;-
+111;433.656;spk2;-;Marine était assez jeune elle avait euh dix-huit mois;-
+111;437.007;spk2;-;il me semble;-
+111;438.07;spk2;-;donc euh;-
+111;439.556;spk2;-;je voulais euh absolument euh;-
+111;442.113;spk2;-;bah continuer à à les élever euh;-
+111;445.267;spk2;-;je voulais les les garder j'aurais euh f-;-
+111;447.771;spk2;-;enfin euh tout fait pour euh;-
+111;450.34;spk2;-;c'était ce qui est ce qui était euh;-
+111;450.34;-;spk2;-;pf
+111;452.868;spk2;-;primordial pour moi c'était continuer je les avais désirés je les avais voulus je voulais pas les perdre et donc euh;-
+111;458.305;spk2;-;je voulais un peu tout sauver quoi;-
+112;459.776;spk1;-;hm hm hm;-
+113;460.353;spk2;-;euh et ma vie euh professionnelle;-
+114;462.75;spk2;spk2 spk1;et la vie des enfants;-
+114;462.75;spk1;spk2 spk1;et les enfants;-
+115;464.395;spk2;-;en mettant bah ma vie évidemment privée de;-
+116;466.704;spk2;spk2 spk1;côté bon;-
+116;466.704;spk1;spk2 spk1;hm hm hm;-
+117;467.43;spk2;-;après faut faire des choix;-
+117;469.569;spk2;-;donc euh je me suis rendue euh j'ai trouvé du travail;-
+117;473.205;spk2;-;euh dans un IME à l'époque;-
+117;476.09;spk2;-;ça c'était en qua- début quatre-vingt-neuf Marine était vraiment très très petite;-
+117;480.402;spk2;-;euh donc euh j'ai trouvé du travail je suis allée à l'école du travail social;-
+117;484.478;spk2;-;ils m'ont dit écoutez euh;-
+117;485.8;spk2;-;on peut pas vraiment vous proposer une formation parce que euh;-
+117;489.117;spk2;-;bah j'avais pas réellement le niveau à part un CAP pour eux;-
+118;491.814;spk2;spk2 spk1;ça correspondait à rien;-
+118;491.814;spk1;spk2 spk1;ouais hm;-
+119;493.425;spk2;-;euh;-
+119;494.752;spk2;-;allez faire euh une préformation ils avaient appelé ça allez faire un stage allez;-
+119;498.17;spk2;-;allez rencontrer à la rencontre des;-
+119;500.815;spk2;-;des gens que vous voulez accompagner et puis euh;-
+119;503.68;spk2;-;on se reverra peut-être ou on se reverra pas;-
+119;506.089;spk2;-;et en fait euh dans cette IME j'ai rencontré une équipe d'éducateurs euh;-
+119;510.012;spk2;-;bah qui m'ont euh;-
+119;511.387;spk2;-;bah je pense qui ont compris en fait;-
+120;512.858;spk2;spk2 spk1;ce que j'avais envie de et qui comprenaient et puis qui ont trouvé;-
+120;512.858;spk1;spk2 spk1;ouai hm hm hm votre projet euh ouais;-
+120;516.42;spk2;spk2 spk1;un potentiel hein;-
+120;516.42;spk1;spk2 spk1;hm hm hm;-
+121;518.276;spk2;-;et euh donc qui on décidait de m'accompagner m'aider je sais pas trop;-
+121;522.584;spk2;-;comment on peut appeler ça mais en tous cas;-
+122;523.978;spk2;spk2 spk1;qui m'ont soutenu dans mon projet;-
+122;523.978;spk1;spk2 spk1;soutenu hm;-
+123;525.503;spk2;-;ouais;-
+123;526.579;spk2;-;donc euh;-
+123;529.396;spk2;-;eh ben euh j'ai cheminé tranquillement en faisant des petites formations euh;-
+123;533.848;spk2;-;et euh;-
+123;535.901;spk2;-;ça fait donc vingt ans et j'ai fait en en;-
+123;538.805;spk2;-;des bouts de formation;-
+124;539.719;spk2;spk2 spk1;d'éducatrice je suis arrivée à;-
+124;539.719;spk1;spk2 spk1;voilà hm hm;-
+125;542.579;spk2;-;euh à mon à mon rêve;-
+126;544.586;spk1;-;voilà;-
+127;545.015;spk2;spk2 spk1;c'est c'est pas un rêve;-
+127;545.015;spk1;spk2 spk1;-;rire
+128;545.835;spk2;-;non mais c'est vrai hein c'est c'est c'est peut-être bête à dire;-
+129;549.411;spk2;spk2 spk1;c'est pas un grand rêve mais euh c'est pas quelque chose;-
+129;549.411;spk1;spk2 spk1;bah non mais c'est chouette quoi voilà de d'y être arrivée;-
+130;552.91;spk2;-;d'extraordinaire mais bon;-
+130;554.68;spk2;-;en fait je en- j'ai l'impression bon quand je l'analyse aujourd'hui;-
+131;557.834;spk1;-;ouais;-
+132;558.363;spk2;-;j'avais envie c'était un peu un défi aussi;-
+133;559.834;spk1;-;hm hm hm;-
+134;560.579;spk2;-;et puis envie de dire à tous les gens qui ont jamais cru qui ont pas cru quoi dans ce projet là bah;-
+135;564.863;spk2;spk2 spk1;j'ai peut-être mis vingt ans mais voilà j'y suis arrivée quoi ouais c'était un petit peu;-
+135;564.863;spk1;spk2 spk1;bah ça y est je l'ai fait;-
+135;564.863;spk1;spk2 spk1;-;rire
+135;570.917;spk2;spk2 spk1;voilà ça m'a ça m'a fait plaisir quand même de me;-
+135;570.917;spk1;spk2 spk1;ouais ouais ouais;-
+136;573.014;spk2;-;prouver à moi-même;-
+136;574.2;spk2;-;même si je suis pas allée les voir en leur disant bah voyez c'est ridicule de;-
+136;578.027;spk2;-;de dire euh de;-
+137;579.437;spk2;spk2 spk1;prédire à vos enfants euh ceci ou cela;-
+137;579.437;spk1;spk2 spk1;hm hm hm hm;-
+138;581.926;spk2;-;voilà i- il chemine il fait des rencontres i- voilà il a des envies il a des des;-
+138;587.412;spk2;-;il a la force il a peut-être pas la force mais bon à un moment donné je pense que dans le chemin on p- peut;-
+139;592.874;spk2;spk2 spk1;faut voir voilà je crois que c'est ça faut savoir s'appuyer aussi sur ces gens-là;-
+139;592.874;spk1;spk2 spk1;et oui et puis selon les rencontres qu'on fait selon plein de choses aussi et ouais ouais;-
+139;599.201;spk2;spk2 spk1;à saisir euh les opportunités;-
+139;599.201;spk1;spk2 spk1;hm hm hm;-
+140;601.414;spk2;-;c'est en fait c'est c'est c'est vraiment ce parcours-là que j'ai eu hein c'est euh;-
+141;605.648;spk2;spk2 spk1;des choses qu'on m'a j'ai jamais;-
+141;605.648;spk1;spk2 spk1;ouais ouais ouais ouais;-
+142;607.404;spk2;-;réellement vraiment demandé les choses on m'a proposé;-
+143;609.991;spk2;spk2 spk1;des choses des;-
+143;609.991;spk1;spk2 spk1;ouais;-
+143;610.821;spk2;spk2 spk1;en cheminant comme ça j'ai jamais fait des demandes de ceci ouais;-
+143;610.821;spk1;spk2 spk1;hm hm hm et puis en prenant le temps aussi de de le faire et euh;-
+144;615.802;spk1;-;hm;-
+145;616.023;spk2;-;alors moi ça a été très long parce que euh bah j'ai élevé les enfants en même temps donc euh puis je tenais absolument à ce qu'ils aient euh;-
+145;622.562;spk2;-;qu'ils aillent à l'école c'est une chose que moi j'avais un petit peu euh on on m'avait pas éduqué comme ça;-
+146;627.039;spk2;spk2 spk1;moi quand j'était jeune;-
+146;627.039;spk1;spk2 spk1;d'accord ouais;-
+147;628.384;spk2;-;en me disant que l'école c'était;-
+148;629.464;spk2;spk2 spk1;important;-
+148;629.464;spk1;spk2 spk1;ouais;-
+149;630.043;spk2;-;on m'avait plutôt éduquée sur des valeurs travail;-
+150;632.142;spk2;spk2 spk1;il faut travailler il faut;-
+150;632.142;spk1;spk2 spk1;hm hm;-
+151;634.206;spk2;-;faut ramener de l'argent;-
+152;635.35;spk2;spk2 spk1;faut faire euh voilà;-
+152;635.35;spk1;spk2 spk1;oui oui oui;-
+152;636.412;spk2;spk2 spk1;c'était moi c'était les valeurs que j'avais;-
+152;636.412;spk1;spk2 spk1;oui oui hm hm hm;-
+153;638.728;spk2;-;et euh donc pour l'école euh;-
+153;638.728;-;spk2;-;pf
+153;641.158;spk2;-;y a des fois je voyais pas trop ce que j'y faisais;-
+154;643.089;spk1;-;ouais;-
+155;643.422;spk1;spk1 spk2;fallait y aller mais euh;-
+155;643.422;spk2;spk1 spk2;c- fallait y aller euh;-
+156;645.614;spk2;-;j'étais un peu maltraitée enfin c'est un bien grand;-
+157;647.925;spk2;spk2 spk1;mot mais;-
+157;647.925;spk1;spk2 spk1;oui;-
+158;648.57;spk2;-;je me sentant je me sentais un peu mal traitée parce que en face de moi j'avais;-
+158;652.181;spk2;-;des des professeurs qui euh cherchaient pas à;-
+159;654.77;spk2;spk2 spk1;comprendre quoi;-
+159;654.77;spk1;spk2 spk1;hm hm hm;-
+160;656.272;spk2;-;et qui voilà qui donnaient leurs cours euh;-
+160;658.724;spk2;-;on comprenait on comprenait pas on suivait on suivait pas;-
+161;661.32;spk2;spk2 spk1;c'était pas leur soucis hein;-
+161;661.32;spk1;spk2 spk1;hm hm hm hm;-
+162;663.152;spk2;-;mais bon peut-être que je me trompe hein j'ai jamais;-
+163;665.344;spk2;spk2 spk1;parlé avec eux ouais ce que je ressentais;-
+163;665.344;spk1;spk2 spk1;non mais c'était le sentiment que voilà ouais;-
+164;667.87;spk2;-;moi dans la classe donc euh m-;-
+164;669.623;spk2;-;je me mettais un peu à l'écart j'observais beaucoup;-
+164;672.421;spk2;-;j'ai passé beaucoup d'années à observer et un petit peu à aussi à;-
+164;676.604;-;spk2;-;bb
+164;678.28;spk2;-;à euh;-
+164;679.345;spk2;-;prendre des modèles un peu comme ça euh;-
+164;681.441;spk2;-;sur les parents de mes amis;-
+165;682.828;spk2;spk2 spk1;sur euh;-
+165;682.828;spk1;spk2 spk1;d'accord;-
+166;683.917;spk2;-;sur euh des professeurs;-
+167;685.126;spk2;spk2 spk1;que j'avais repérés;-
+167;685.126;spk1;spk2 spk1;ouais;-
+168;686.14;spk2;-;qui avaient;-
+169;686.83;spk2;spk2 spk1;qui ont qui ont représenté un petit peu un modèle qui revenait en moi qui résonnait en moi;-
+169;686.83;spk1;spk2 spk1;quelque chose hm hm hm hm;-
+170;690.989;spk2;-;donc voilà moi je me suis construite un peu comme ça hein c'était;-
+171;693.758;spk1;-;en observant;-
+172;694.556;spk1;spk1 spk2;-;rire
+172;694.556;spk2;spk1 spk2;ouais j'ai beaucoup observé je continue quand même encore aussi c'est un peu la base de notre métier aussi;-
+173;700.354;spk2;-;mais euh donc voilà donc euh;-
+174;704.061;spk1;spk1 spk2;et maintenant euh;-
+174;704.061;spk2;spk1 spk2;et maintenant donc ? vous;-
+175;705.821;spk2;-;bah euh donc euh bah euh;-
+175;708.326;spk2;-;Marine et Nicolas euh je les ai élévés pratiquement toute seule;-
+175;712.057;spk2;-;avec leur père qui était;-
+175;713.889;spk2;-;présent bah comme un père avec des parents;-
+176;715.814;spk2;spk2 spk1;divorcés tous les quinze jours;-
+176;715.814;spk1;spk2 spk1;hm hm hm;-
+177;717.105;spk2;-;les vacances euh;-
+177;718.533;spk2;-;voilà;-
+177;719.561;spk2;-;j'ai euh je je tenais absolument à ce qu'ils fassent des études;-
+177;724.499;spk2;-;même si euh mon fils euh voyait pas pourquoi;-
+178;727.286;spk2;spk2 spk1;au départ euh;-
+178;727.286;spk1;spk2 spk1;-;rire
+178;729.432;spk2;spk2 spk1;au début j'ai ouais;-
+178;729.432;spk1;spk2 spk1;fallait expliquer;-
+178;729.432;spk1;spk2 spk1;-;rire
+179;731.609;spk2;-;lui dire que c'était important euh;-
+179;733.712;spk2;-;bon c'était pas toujours évident de;-
+179;735.687;spk2;-;dire ce que leur père est aujourd'hui directeur de deux entreprises et d'un niveau CAP;-
+180;740.067;spk2;spk2 spk1;comme moi on a un peu cheminé tous les deux en en;-
+180;740.067;spk1;spk2 spk1;oui oui oui oui;-
+180;742.98;spk2;spk2 spk1;en poussant un peu ah non;-
+180;742.98;spk1;spk2 spk1;-;rire
+181;745.485;spk2;-;et euh bah euh moi j'ai toujours réussi à travailler et euh sans forcément enfin avoir fait d'études;-
+182;751.067;spk2;spk2 spk1;donc c'était un peu compliqué pour euh ouais ouais donc;-
+182;751.067;spk1;spk2 spk1;d'expliquer que de faire des études quoi hm hm;-
+183;754.918;spk2;-;quand j'ai repris les études euh à chaque fois je les impliquais plus ou moins dans les études euh je leur euh;-
+183;759.923;spk2;-;j'essayais de leur montrer que bah le temps que je passe aujourd'hui à faire des études;-
+184;764.159;spk2;spk2 spk1;bah normalement j'aurais dû les faire;-
+184;764.159;spk1;spk2 spk1;hm hm;-
+185;765.912;spk2;-;y a vingt ans ou vingt-cinq ans;-
+185;767.294;spk2;-;j'ai pas forcément eu les moyens ou j'ai pas eu le déclic l'envie je sais pas comment on peut appeler ça;-
+185;772.578;spk2;-;donc euh bah aujourd'hui je le fais et que bah eux aujourd'hui je leur mets tout entre les mains;-
+186;777.833;spk2;spk2 spk1;quand je leur dis;-
+186;777.833;spk1;spk2 spk1;ouais ouais;-
+187;778.626;spk2;-;que prenez le temps que vous vous voulez;-
+187;780.313;spk2;-;mais faut absolument faire des études;-
+187;782.193;spk2;-;faut être éduqué c'est important faut;-
+187;784.554;spk2;-;donc euh bon bah ils ont compris hein;-
+188;786.416;spk2;spk2 spk1;mais bon lui Nicolas;-
+188;786.416;spk1;spk2 spk1;-;rire
+189;787.632;spk2;-;bon il a arrêté à la licence lui parce que;-
+189;789.342;spk2;-;il avait plutôt envie de faire s- une vie de famille;-
+190;792.871;spk1;-;oui hm;-
+191;793.597;spk2;-;avec s- son amie elle était un peu plus pressée que lui on va dire;-
+192;796.751;spk1;-;hm;-
+193;797.164;spk2;-;mais bon aujourd'hui il a un super boulot euh il s'éclate et;-
+194;799.837;spk2;spk2 spk1;bon c'est ce qui est important et puis;-
+194;799.837;spk1;spk2 spk1;d'accord ouais bah oui oui c'est sûr;-
+195;802.871;spk2;-;bah Marine elle chemine doucement;-
+196;804.775;-;spk1;-;rire
+197;805.549;spk2;-;mais bon euh;-
+197;806.458;spk2;-;moi je les ai jamais non plus poussés quoi j'ai jamais eu je leur ai jamais mis la pression euh;-
+197;811.083;spk2;-;même leur père hein euh;-
+197;812.482;spk2;-;bon bah s'il faut deux ans de plus pour arriver à quelque chose bah il te faut deux ans de plus;-
+197;816.669;spk2;-;fallait ouais ils ont pas la pression y a pas de carottes;-
+198;818.888;spk2;spk2 spk1;y a pas de;-
+198;818.888;spk1;spk2 spk1;ouais;-
+199;819.606;spk1;-;hm hm;-
+200;820.164;spk2;-;d'exigences particulières à part faire des études;-
+200;822.861;spk2;-;et euh pas y aller pour y aller quoi parce que c'est pas la peine d'aller perdre son temps;-
+200;827.553;spk2;-;bon donc euh;-
+201;828.519;spk2;spk2 spk1;Marine quand elle m'a parlé de la fac moi j'étais un peu réticente franchement euh la fac pour moi euh;-
+201;828.519;spk1;spk2 spk1;ouais faut que ça leur plaise et oui hm hm;-
+202;833.476;spk2;-;ça veut pas dire grand chose;-
+202;835.284;spk2;-;parce que j'entendais beaucoup autour de moi les gens qui disaient euh ouais enfin mon enfant est à la fac mais il y va quand il veut;-
+203;841.082;spk1;-;ouais;-
+204;841.477;spk2;spk2 spk1;il fait rien euh;-
+204;841.477;spk1;spk2 spk1;ouais;-
+205;842.818;spk2;-;donc moi ça me faisait un peu peur parce que Marine je la voyais pas dans cette autonomie-là de travail;-
+205;847.51;spk2;-;et de prise de conscience que;-
+206;849.582;spk2;spk2 spk1;donc euh voilà ouais et;-
+206;849.582;spk1;spk2 spk1;qu'il faut travailler par soi-même et que hm;-
+207;851.744;spk2;-;franchement j'avais très très très peur;-
+207;853.962;spk2;-;donc je l'ai mise en garde plein de fois je lui disais mais tu es sûr Marine ?;-
+208;857.236;spk2;spk2 spk1;c'est ce que tu veux euh ?;-
+208;857.236;spk1;spk2 spk1;-;rire
+209;858.803;spk2;-;elle me disait mais fais-moi confiance euh je lui disais mais c'est pas que je te fais confiance c'est que;-
+209;862.798;spk2;-;bah la vie avance;-
+209;863.957;spk2;-;les gens avancent;-
+209;865.116;spk2;-;et j'ai pas envie que tu toi tu avances pas quoi;-
+210;867.188;spk2;spk2 spk1;pas que tu restes en retrait je voudrais que tu avances;-
+210;867.188;spk1;spk2 spk1;hm hm hm;-
+210;869.191;spk2;spk2 spk1;aussi que tu;-
+210;869.191;spk1;spk2 spk1;hm;-
+211;869.788;spk2;-;sois dans le mouvement donc euh;-
+211;871.4;spk2;-;et puis elle m'a dit fais-moi confiance bon ben;-
+211;874.073;spk2;-;puis bah je suis assez contente d'elle même fière;-
+212;876.53;spk2;spk2 spk1;oh non mais;-
+212;876.53;spk1;spk2 spk1;-;rire
+213;877.894;spk1;-;c'est vrai c'est ce que je me dis hé franchement elle m'épate;-
+214;880.029;spk2;spk2 spk1;y a des fois euh;-
+214;880.029;spk1;spk2 spk1;ouais;-
+215;880.964;spk2;-;je suis surprise;-
+216;882.017;spk2;spk2 spk1;oui agréablement surpi- je lui dis pas trop;-
+216;882.017;spk1;spk2 spk1;-;rire
+216;884.783;spk2;spk2 spk1;non parce que après non mais c'est quand je lui dis après euh c'est vrai qu'elle montre qu'elle est contente mais faut pas que je lui dise;-
+216;884.783;spk1;spk2 spk1;-;rire
+216;884.783;spk1;spk2 spk1;-;rire
+216;892.168;spk2;spk2 spk1;faut qu'elle en profite un peu;-
+216;892.168;spk1;spk2 spk1;-;rire
+216;893.976;spk2;spk2 spk1;-;rire
+216;893.976;spk2;spk2 spk1;-;rire
+216;893.976;spk1;spk2 spk1;-;rire
+216;898.764;spk2;spk2 spk1;donc voilà donc pour moi euh;-
+216;898.764;spk1;spk2 spk1;d'accord hm;-
+217;901.341;spk2;-;sinon pour mon ça c'est le parcours personnel docn j'ai cheminé;-
+217;905.396;spk2;-;ouais tranquillement;-
+218;907.187;spk1;-;ouais;-
+219;908.009;spk2;-;voilà j'ai j'ai pas refait ma vie euh;-
+219;913.302;spk2;-;avec un homme mais avec une femme;-
+220;914.869;spk1;-;hm;-
+221;915.258;spk2;-;voilà;-
+222;915.98;-;spk1;-;rire
+223;917.403;spk2;-;donc moi je suis au clair avec ça j'ai dit à Marine est-ce que ça elle m'a dit non on est tous au clair;-
+223;921.951;spk2;-;donc euh voilà les choses sont posées sont dites;-
+223;925.418;spk2;-;tout de;-
+223;926.229;spk2;-;y a pas de cachoteries;-
+224;927.274;spk2;spk2 spk1;non y a pas;-
+224;927.274;spk1;spk2 spk1;oui hm hm hm;-
+225;928.721;spk2;-;bon on évite de trop en parler;-
+225;930.461;spk2;-;parce que y a beaucoup de de non-dits ou de;-
+226;932.942;spk2;spk2 spk1;de choses;-
+226;932.942;spk1;spk2 spk1;ouais;-
+227;933.318;spk2;-;qui se disent par derrière qui pourraient;-
+228;935.663;spk2;spk2 spk1;faire du mal aux enfants par exemple je les ai;-
+228;935.663;spk1;spk2 spk1;hm hm;-
+229;937.567;spk2;-;protégés des années et des années j'en ai très très peu parlé même voire pas du tout sauf à des amis proches;-
+230;942.956;spk1;-;ouais;-
+231;943.221;spk2;-;parce qu'il étaient petits parce que euh;-
+231;945.245;spk2;-;je voulais absolument les protéger;-
+232;946.493;spk2;spk2 spk1;de ça parce que;-
+232;946.493;spk1;spk2 spk1;hm hm;-
+232;946.985;spk2;spk2 spk1;le monde est un peu cruel;-
+232;946.985;spk1;spk2 spk1;ouais bah oui oui;-
+232;949.225;spk2;spk2 spk1;donc euh voilà;-
+232;949.225;spk1;spk2 spk1;hm hm hm hm;-
+233;950.63;spk2;-;je me suis dit euh;-
+233;951.73;spk2;-;le moyen de les protéger il est là;-
+233;954.047;spk2;-;c'est de être un peu dans le non-dit mais franchement euh j'étais pas très;-
+233;957.826;spk2;-;très bien par rapport à ça et;-
+234;959.044;spk1;-;bah sûrement oui;-
+235;960.042;spk2;spk2 spk1;parce que c'est caché et;-
+235;960.042;spk1;spk2 spk1;hm hm ouais;-
+235;962.042;spk2;spk2 spk1;que les choses euh mais bon;-
+235;962.042;spk1;spk2 spk1;ouais hm hm hm hm;-
+236;964.258;spk2;-;comme ça et puis bah maintenant aujourd'hui;-
+237;966.209;spk2;spk2 spk1;ils sont grands euh qu'on en parle euh;-
+237;966.209;spk1;spk2 spk1;et puis avec le temps ouais ouais;-
+237;968.566;spk2;spk2 spk1;enfin voilà ils disent les choses euh;-
+237;968.566;spk1;spk2 spk1;hm hm hm;-
+238;970.873;spk2;-;très;-
+238;971.761;spk2;-;moi je tenais euh;-
+238;973.02;spk2;-;enfin c'est marrant parce que dep- depuis qu'ils sont tout petits euh je les ai ouverts sur plein de choses;-
+238;977.993;spk2;-;et euh sur euh bah toutes les différences que peuvent exister sur euh;-
+238;982.373;spk2;-;voilà c'est parce que moi j'ai tellement vécu euh des choses différentes on va dire et un petit peu euh;-
+238;987.69;spk2;-;bah la banlieue euh;-
+238;987.69;-;spk2;-;pf
+238;990.748;spk2;-;pas trop d'argent à la maison;-
+239;992.308;spk2;spk2 spk1;euh;-
+239;992.308;spk1;spk2 spk1;hm;-
+240;992.964;spk2;-;j'ai tellement vécu un peu cette mise à part que j'ai toujours voulu comme eux ils ont pas vécu ça on va dire;-
+240;998.642;spk2;-;j'ai pas voulu que j- enfin j'ai voulu qu'ils sachent en tout cas comme;-
+240;1002.661;spk2;-;c'était euh;-
+240;1004.18;spk2;-;comment dire ça pouvait être cruel et euh;-
+240;1006.709;spk2;-;de de renvoyer à quelqu'un qu'il était différent pas comme nous alors qu'on le connaissait pas;-
+241;1010.993;spk2;spk2 spk1;et que enfin bon j'ai;-
+241;1010.993;spk1;spk2 spk1;hm hm hm hm hm;-
+242;1012.543;spk2;-;toujours essayé de les élever;-
+242;1014.339;spk2;-;ouais ouais je trouve que si j'ai réussi;-
+243;1015.872;spk2;spk2 spk1;je pense que oui quand même;-
+243;1015.872;spk1;spk2 spk1;-;rire
+244;1017.421;spk2;-;après hm voilà ils font leur chemin aussi;-
+245;1019.799;spk1;-;oui bah ouais;-
+246;1020.41;spk2;-;ils se construisent aussi avec les autres hein et euh;-
+246;1022.883;spk2;-;voilà;-
+246;1025.7;spk2;-;sinon au niveau professionnel moi mon parcours donc j'ai travaillé en IME;-
+247;1029.936;spk2;spk2 spk1;donc c'est un institut médico-éducatif;-
+247;1029.936;spk1;spk2 spk1;alors IME c'est;-
+247;1033.234;spk2;spk2 spk1;donc qui accueille c'est que des enfants ouais de six à vingt ans;-
+247;1033.234;spk1;spk2 spk1;où y a des enfants qui accueille des enfants hm d'accord;-
+247;1037.446;spk2;spk2 spk1;euh déficients intellectuels donc à l'époque;-
+247;1037.446;spk1;spk2 spk1;d'accord;-
+248;1039.626;spk2;-;on disait euh moy- légers moyens profonds;-
+249;1042.503;spk1;-;oui;-
+250;1042.868;spk2;-;aujourd'hui ils sont plus répertoriés comme ça;-
+251;1045.108;spk2;spk2 spk1;non;-
+251;1045.108;spk1;spk2 spk1;hm;-
+252;1045.573;spk2;-;c'est de la déficience intellectuelle on les on c'est plus trop;-
+253;1048.598;spk1;-;hm;-
+254;1049.69;spk2;spk2 spk1;et vous donc auprès de ces enfants vous;-
+254;1049.69;spk1;spk2 spk1;euh j'ai travaillé alors je;-
+255;1052.507;spk2;-;travaillais sur un groupe d'internat moi de alors j'ai fait des des j'ai travaillé sur des groupes de;-
+255;1057.896;spk2;-;d'enfants euh de petits donc euh;-
+255;1059.608;spk2;-;six dix ans euh adolescents garçons et adolescents filles;-
+256;1063.555;spk1;-;d'accord;-
+257;1064.041;spk2;-;en fait à l'époque ils étaient c'était pas des groupes transversaux c'était des groupes où tout le monde était;-
+257;1068.878;spk2;-;y a avait les petits avec les petits;-
+258;1070.066;spk2;spk2 spk1;les garçons avec les garçons;-
+258;1070.066;spk1;spk2 spk1;d'accord hm;-
+259;1071.052;spk2;-;et puis bon c'est toujours euh pas mixte;-
+260;1073.138;spk2;spk2 spk1;pour les groupes;-
+260;1073.138;spk1;spk2 spk1;hm d'accord;-
+260;1074.513;spk2;spk2 spk1;parce que bon à l'adolescence c'est quand même euh;-
+260;1074.513;spk1;spk2 spk1;oui;-
+261;1077.138;spk2;-;faire attention;-
+261;1077.138;-;spk2;-;rire
+262;1078.273;spk1;-;oui;-
+263;1078.662;spk2;-;mais euh;-
+263;1080.35;spk2;-;donc j'ai travaillé à peu près six ans dans cet établissement ouais;-
+263;1084.826;spk2;-;euh j'accompagnais donc des enfants euh bah;-
+263;1087.932;spk2;-;tout ce qui est sur le versant éducatif c'était;-
+263;1090.87;spk2;-;c'est-à-dire que c'est des enfants qui étaient euh;-
+263;1090.87;-;spk2;-;pf
+263;1093.158;-;spk2;-;pf
+263;1094.326;spk2;-;retirés du milieu scolaire;-
+263;1096.576;spk2;-;parce que i-;-
+263;1098.504;spk2;-;y a y avait des troubles hein du comportement souvent;-
+264;1100.72;spk1;-;mais dès dès six ans quoi enfin même les tout petits;-
+265;1103.561;spk2;-;ah oui oui oui;-
+266;1104.023;spk1;-;ouais;-
+267;1104.436;spk2;-;ouais ouais ouais s'ils étaient orientés donc ils étaient reconnus comme étant handicapés;-
+268;1108.167;spk1;-;oui;-
+269;1108.556;spk2;-;donc par la c- la CDES je sais pas si s-;-
+270;1110.628;spk2;spk2 spk1;ça vous parle;-
+270;1110.628;spk1;spk2 spk1;hm hm hm;-
+270;1110.628;spk1;spk2 spk1;-;rire
+271;1112.195;spk2;-;donc à partir du moment où ils étaient reconnus comme étant handicapés;-
+271;1115.229;spk2;-;ils étaient placés dans un établissement;-
+272;1116.947;spk2;spk2 spk1;spécialisé où;-
+272;1116.947;spk1;spk2 spk1;d'accord;-
+273;1117.974;spk2;-;à l'intérieur et et y a une école;-
+274;1120.575;spk2;spk2 spk1;avec des instituteurs spécialisés;-
+274;1120.575;spk1;spk2 spk1;d'accord d'accord d'accord;-
+275;1122.864;spk2;-;donc y a une école;-
+276;1123.986;spk2;spk2 spk1;et des éducateurs;-
+276;1123.986;spk1;spk2 spk1;d'accord;-
+276;1125.176;spk2;spk2 spk1;qui euh;-
+276;1125.176;spk1;spk2 spk1;hm hm;-
+277;1125.974;spk2;-;donc les éducateurs participent également à la journée euh;-
+277;1129.609;spk2;-;scolaire donc en petits groupes ils peuvent accompagner sur certains;-
+277;1132.955;spk2;-;euh sur l'apprentissage de la lecture ou;-
+277;1132.955;-;spk2;-;pf
+277;1137.311;spk2;-;c'est des enfants qui ont très un niveau scolaire très très bas voire pas de niveau scolaire;-
+277;1142.58;spk2;-;donc on peut aussi travailler sur des images;-
+278;1144.603;spk2;spk2 spk1;enfin bon y a plein de supports euh;-
+278;1144.603;spk1;spk2 spk1;ouai ouais ouais;-
+279;1146.551;spk2;-;qu'on développe avec les enfants et on travaille av- en journée avec les instituteurs et en soirée on travaille plus le quotidien;-
+279;1152.301;spk2;-;c'est-à-dire euh bah le respect des règles;-
+280;1154.734;spk1;-;d'accord;-
+281;1155.244;spk2;-;euh se laver euh manger correctement euh se tenir à table euh s'adresser correctement à l'autre enfin;-
+282;1162.148;spk2;spk2 spk1;c'est vraiment euh non non non;-
+282;1162.148;spk1;spk2 spk1;et ça ça c'est les ça c'est chez les six dix ans ou même après euh;-
+282;1167.225;spk2;spk2 spk1;après oui non après après non après;-
+282;1167.225;spk1;spk2 spk1;après d'accord ouais je me hm ouais hm hm;-
+283;1171.292;spk2;-;souvent les enfants euh;-
+283;1171.292;-;spk2;-;pf
+283;1172.859;spk2;-;quand ils arrivent même à six ans ils ont déjà eu un parcours tellement chaotique;-
+283;1176.95;spk2;-;euh;-
+283;1178.301;spk2;-;le plus souvent c'est quand même dans des familles défavorisées hein que la déficience intellectuelle aujourd'hui on entend beaucoup euh;-
+283;1184.003;spk2;-;les femmes qui ont bu euh;-
+284;1185.217;spk1;-;oui;-
+285;1185.739;spk2;spk2 spk1;pendant leur grossesse euh;-
+285;1185.739;spk1;spk2 spk1;ouais oui;-
+286;1187.571;spk2;-;y a aussi des des enfants qui ont euh;-
+286;1190.292;spk2;-;dont les mamans ont eu des maladies aussi hein;-
+287;1192.459;spk2;spk2 spk1;pendant leur grossesse;-
+287;1192.459;spk1;spk2 spk1;oui d'accord;-
+288;1193.59;spk1;-;hm hm hm;-
+289;1194.196;spk1;spk1 spk2;hm hm hm hm hm hm hm hm;-
+289;1194.196;spk2;spk1 spk2;toxoplasmose par exemple ça laisse des séquelles;-
+290;1197.758;spk2;-;et puis euh y a y a des enfants c'est plutôt des un;-
+290;1200.766;spk2;-;handicap social on va dire qui sont malheureusement pas dans un;-
+291;1204.734;spk2;spk2 spk1;dans une famille fa- favorisée on leur;-
+291;1204.734;spk1;spk2 spk1;dans un cadre ouais hm hm hm;-
+292;1207.402;spk2;-;où on les aura stimulés;-
+293;1208.825;spk1;-;hm hm hm;-
+294;1209.455;spk2;-;où on les aura é- éduqués ou;-
+294;1209.455;-;spk2;-;pf
+294;1211.936;spk2;-;les enfants des fois ils arrivent c'est des enfants sauvages hein i- i- il n'y a aucune base de l'éducation de politesse de;-
+295;1217.878;spk2;spk2 spk1;s'adresser à l'autre correctement c'est que par de l'agressivité c'est;-
+295;1217.878;spk1;spk2 spk1;d'accord ouais ouais hm hm;-
+296;1222.21;spk2;-;donc y a tout ça un peu à;-
+297;1223.547;spk2;spk2 spk1;rééduquer on va dire et;-
+297;1223.547;spk1;spk2 spk1;hm hm hm;-
+298;1225.965;spk1;-;et c'est par les écoles en fait que ils viennent ensuite dans une IME ou c'est;-
+299;1230.753;spk2;-;alors ils peuvent être repérés;-
+300;1231.852;spk2;spk2 spk1;oui par des écoles;-
+300;1231.852;spk1;spk2 spk1;ouais;-
+301;1233.034;spk2;-;mais ça peut-être euh;-
+302;1234.34;spk2;spk2 spk1;le médecin ouais ça peut-être;-
+302;1234.34;spk1;spk2 spk1;d'accord hm;-
+303;1235.979;spk2;-;bon souvent les enfants euh ils sont déjà repérés à l'école maternelle et le le le;-
+303;1240.691;spk2;-;service de la PMI a un déjà un peu un oeil dessus quoi;-
+304;1244.133;spk1;-;ouais;-
+305;1244.59;spk2;-;et puis il arrive un moment où le milieu euh on va dire euh;-
+305;1247.936;spk2;-;normal n'est plus vraiment adapté;-
+305;1250.297;spk2;-;parce que euh c'est violent pour l'enfant qui a plus sa vraiment sa place dans l'école;-
+305;1254.364;spk2;-;parce que les autres avancent lui il;-
+306;1255.93;spk2;spk2 spk1;avance plus;-
+306;1255.93;spk1;spk2 spk1;ouais ouais ouais;-
+306;1256.917;spk2;spk2 spk1;donc c'est quand même assez violent de voir voilà ouais donc euh;-
+306;1256.917;spk1;spk2 spk1;donc l'écart se creuse de plus en plus et euh;-
+307;1260.383;spk2;-;et puis c'est dérangeant pour euh c- c- c- c'est malheureux;-
+308;1263.753;spk2;spk2 spk1;de le dire c'est rien mais c'est dérangeant pour les autres aussi parce que;-
+308;1263.753;spk1;spk2 spk1;oui hm hm hm hm hm hm hm;-
+309;1266.017;spk2;-;un enfant qui sème le trouble toute la journée;-
+309;1268.686;spk2;-;eh ben à un moment donné euh il;-
+310;1270.229;spk2;spk2 spk1;faut faut l'aider cet enfant qui est en souffrance donc euh voilà;-
+310;1270.229;spk1;spk2 spk1;ouais et puis su- voilà voilà hm hm hm hm hm;-
+311;1273.431;spk2;-;et puis bah les autres est-ce qu'on doit aussi euh;-
+311;1276.609;spk2;-;leur faire supporter ça sur une journée d'école qui est assez compliquée quand même pour un enfant donc euh;-
+312;1281.133;spk1;-;ouais;-
+312;1281.667;spk1;-;ouais;-
+312;1282.104;spk1;-;hm hm hm;-
+313;1282.561;spk2;-;ça c'est encore des questions je pense qui se posent un peu aujourd'hui;-
+314;1286.268;spk2;spk2 spk1;donc en IME euh;-
+314;1286.268;spk1;spk2 spk1;d'accord donc oui voilà ouais;-
+315;1287.907;spk2;-;lorsque j'ai débuté en IME c- donc j'ai commencé par l'IME je me suis dit ouh là;-
+315;1293.008;-;spk2;-;pf
+316;1293.421;spk2;-;je me suis demandée dans quel monde j'arrivais;-
+317;1294.892;spk1;-;ah oui;-
+318;1295.469;spk1;spk1 spk2;bah oui parce que ouais hm hm;-
+318;1295.469;spk2;spk1 spk2;franchement euh voir ces enfants euh;-
+319;1298.33;spk2;-;complètement euh;-
+319;1299.488;spk2;-;y a des y a avait plus rien quoi y avait rien;-
+319;1302.594;spk2;-;je me suis dit ouh là là;-
+320;1304.016;spk2;spk2 spk1;euh quand je rentrais le soir à la maison que;-
+320;1304.016;spk1;spk2 spk1;-;rire
+321;1305.765;spk2;-;mes enfants me demand- me faisaient une petite demande ou une petite crise;-
+321;1309.257;spk2;-;je me disais non non mais attendez là;-
+322;1310.85;spk2;spk2 spk1;on va on va recadrer tout ça;-
+322;1310.85;spk1;spk2 spk1;-;rire
+322;1312.747;spk2;spk2 spk1;euh non enfin je veux dire on a un;-
+322;1312.747;spk1;spk2 spk1;-;rire
+323;1315.105;spk2;-;un super décalage;-
+323;1316.406;spk2;-;et ça a été assez dur au début hein c'était euh ouais c'était pas évident mais franchement ça me plaisait tellement;-
+324;1322.055;spk1;-;d'accord;-
+325;1322.613;spk2;-;un peu j'avais un petit peu je pense hein mais comme;-
+325;1325.286;spk2;-;comme beaucoup de;-
+325;1326.781;spk2;-;d'éducateurs on va dire bon qui le reconnaissent pas forcément mais;-
+325;1330.103;spk2;-;envie de comment;-
+325;1331.205;spk2;-;dire euh;-
+325;1332.223;spk2;-;avoir le pouvoir de changer les choses;-
+326;1333.521;spk2;spk2 spk1;quoi l'envie de changer les choses;-
+326;1333.521;spk1;spk2 spk1;ouais hm hm;-
+327;1335.761;spk2;-;et puis je crois quand on a eu des parcours un peu comme le mien un peu;-
+327;1339.619;spk2;-;un peu euh;-
+327;1340.987;spk2;-;bah difficile et compliqué euh;-
+327;1343.304;spk2;-;moi je pense que à un moment donné j'aurais aimé avoir un éducateur près de moi;-
+327;1346.415;spk2;-;quelqu'un qui me guide quoi;-
+328;1347.67;spk2;spk2 spk1;qu'il me dise;-
+328;1347.67;spk1;spk2 spk1;ouais ouais ouais;-
+329;1348.733;spk2;-;qu'il me donne un peu des repères qu'il me;-
+329;1351.021;spk2;-;et euh je pense que euh enfin aujourd'hui je;-
+329;1351.021;-;spk2;-;pf
+330;1353.838;spk2;spk2 spk1;l'analyse comme ça peut-être que je me trompe mais;-
+330;1353.838;spk1;spk2 spk1;vous l'analysez comme ça ouais hm hm;-
+331;1356.968;spk2;-;je pense pas parce que j'ai essayé quand même de réfléchir sur euh pourquoi;-
+331;1360.074;spk2;-;parce que souvent j'entendais on fait pas ce métier par hasard;-
+332;1362.819;-;spk1;-;rire
+333;1363.545;spk2;-;et euh peut-être mais euh p- pourquoi enfin;-
+334;1367.228;spk2;spk2 spk1;pourquoi pas par hasard pourquoi on est là enfin;-
+334;1367.228;spk1;spk2 spk1;-; rire
+335;1369.733;spk2;-;et puis euh je pense que euh ça m'a fait réfléchir un petit peu sur euh;-
+335;1373.536;spk2;-;je pense que oui c'est vrai on le fait pas par hasard;-
+335;1375.873;spk2;-;puis on a peut-être envie quelque part de réparer quelque chose ou de de;-
+335;1379.916;spk2;-;et puis on on on on;-
+336;1381.435;spk1;-;et oui de donner peut-être ce qu'on n'a pas eu;-
+337;1383.555;spk1;spk1 spk2;euh ouais hm;-
+337;1383.555;spk2;spk1 spk2;ouais et puis on se reconstruit aussi hein en;-
+338;1386.06;spk2;-;en voyant euh;-
+338;1387.243;spk2;-;le parcours des autres et puis de se dire que euh;-
+338;1390.156;spk2;-;ben on n'est pas les seuls dans cette situation on a vécu des choses terribles mais que l'expérience;-
+338;1394.776;spk2;-;qui nous a enfin on;-
+338;1396.199;spk2;-;que j'ai moi où je m'en suis;-
+338;1397.935;spk2;-;pas sortie parce que j'étais pas non plus euh;-
+339;1400.218;spk2;spk2 spk1;j'étais pas Cosette hein mais bon euh;-
+339;1400.218;spk1;spk2 spk1;ouais;-
+339;1400.218;spk1;spk2 spk1;-;rire
+340;1403.656;spk2;-;je me dis s- moi j'ai eu la force de;-
+340;1406.714;spk2;-;de trouver euh;-
+340;1408.738;spk2;-;des moyens et de me donner des chances j'ai eu cette force-là;-
+340;1412.036;spk2;-;euh je me dis y a des des enfants qui ont cette fragilité et qui ont pas cette force-là et j'avais envie;-
+340;1417.146;spk2;-;bah qu'ils qu'ils puisent un peu en moi euh qui;-
+341;1419.906;spk2;spk2 spk1;ouais qu'ils qu'ils puisent euh;-
+341;1419.906;spk1;spk2 spk1;hm hm;-
+342;1421.901;spk2;-;bah mon envie d'aller au bout de de faire les choses de se dire mais non on n'est pas forcément nul;-
+342;1427.266;spk2;-;voilà et parce que moi je pense que je l'ai puisé chez des gens comme ça qui;-
+343;1431.261;spk2;spk2 spk1;passaient qui sont passés euh quand j'étais jeune euh dans ma vie;-
+343;1431.261;spk1;spk2 spk1;ouais ouais hm hm hm;-
+344;1434.511;spk2;-;je pense que c'est comme ça que j'ai réussi à;-
+344;1436.872;spk2;-;donc j'en- je me dis;-
+344;1438.872;spk2;-;voilà que les gens aussi se servent de ça pour euh;-
+345;1441.665;spk2;spk2 spk1;-;pif
+345;1441.665;spk1;spk2 spk1;pour avancer ouais;-
+345;1443.353;spk2;spk2 spk1;pourquoi pas donc euh j'ai fait;-
+345;1443.353;spk1;spk2 spk1;ouais ouais hm hm hm;-
+346;1445.113;spk2;-;euh des enfants après euh;-
+346;1447.137;spk2;-;j'ai travaillé dans un établissement j'y suis pas restée longtemps;-
+346;1450.531;spk2;-;euh d'enfants euh qui étaient retirés euh par le juge des enfants;-
+346;1454.377;-;spk2;-;i
+347;1456.04;spk1;-;retirés des familles;-
+348;1457.054;spk2;spk2 spk1;retirés des familles ouais;-
+348;1457.054;spk1;spk2 spk1;oui;-
+349;1458.189;spk2;-;par le juge des enfants parce que y avait maltraitances;-
+349;1460.838;spk2;-;donc euh j'y suis restée six mois;-
+350;1463.511;spk2;spk2 spk1;alors là j'ai franchement euh;-
+350;1463.511;spk1;spk2 spk1;d'accord;-
+351;1464.905;spk2;-;j'ai je pense que j'étais pas prête;-
+352;1466.905;spk1;-;oui;-
+353;1467.41;spk2;-;non ça a été assez difficile pour moi d'autant plus que euh;-
+354;1470.973;spk2;-;c'était à Orléans ça aussi;-
+355;1471.939;spk2;-;ouais;-
+356;1472.211;spk1;-;ouais;-
+357;1472.564;spk2;-;c'était à Saint-Pryvé;-
+358;1473.587;spk1;-;hm;-
+359;1474.468;spk2;-;d'autant plus que les les enfants qui arrivaient ils étaient en ils avaient un peu l'âge de mes enfants;-
+359;1479.401;spk2;-;et euh;-
+359;1480.781;-;spk2;-;pf
+359;1481.599;spk2;-;je me disais euh;-
+359;1482.806;spk2;-;franchement c'était je sais pas ça me renvoyait à des choses terribles;-
+359;1486.441;spk2;-;et j'avais pas l'impression euh;-
+360;1488.657;spk2;spk2 spk1;de leur apporter d'avoir la capacité;-
+360;1488.657;spk1;spk2 spk1;ouais ouais;-
+361;1490.739;spk2;-;de leur apporter quelque chose à ces enfants-là;-
+361;1492.917;spk2;-;ça me rendait moi pas;-
+362;1494.954;spk2;spk2 spk1;bien donc;-
+362;1494.954;spk1;spk2 spk1;oui;-
+363;1495.533;spk2;-;euh je me disais euh;-
+363;1496.838;spk2;-;euh je suis pas en capacité de les aider donc euh;-
+363;1499.487;spk2;-;enfin c'était un peu malhonnête de ma part de de;-
+364;1501.848;spk2;spk2 spk1;continuer euh;-
+364;1501.848;spk1;spk2 spk1;de vouloir con- ouais hm;-
+365;1503.29;spk2;-;donc euh en;-
+365;1505.098;spk2;-;le l'établissement que j'avais quitté m'a recontactée pour euh me reproposer parce que je suis encore en contact avec eux;-
+366;1511.665;spk2;spk2 spk1;donc je suis repartie travailler là-bas;-
+366;1511.665;spk1;spk2 spk1;vous êtes repartie ouais;-
+367;1514.074;spk2;-;quelques mois et puis après euh je suis partie dans le secteur adulte;-
+367;1517.444;spk2;-;donc j'ai travaillé dans un foyer d'accueil médicalisé;-
+367;1520.502;spk2;-;donc là c'était complètement différent ils accueillent euh des personnes euh;-
+367;1524.738;spk2;-;euh en polyhandicapées;-
+368;1526.546;spk2;spk2 spk1;adultes;-
+368;1526.546;spk1;spk2 spk1;d'accord;-
+369;1527.603;spk1;-;oui;-
+370;1528.113;spk2;-;donc euh;-
+370;1528.113;-;spk2;-;bb
+371;1531.531;spk1;spk1 spk2;ouais médicalisé hm;-
+371;1531.531;spk2;spk1 spk2;c'est médicalisé ou c'est d'accord hm;-
+372;1534.589;spk2;-;donc euh c'était assez c'est difficile aussi;-
+372;1538.512;spk2;-;mais bon euh;-
+372;1540.291;spk2;-;très vite euh j'ai trouvé ma place j'ai;-
+372;1543.421;spk2;-;j'ai senti que je pouvais être utile et euh;-
+372;1546.166;spk2;-;donc voilà j'ai fait euh;-
+372;1548.349;spk2;-;j'ai pas travaillé longtemps parce que après je suis repartie dans un autre foyer de vie qui ouvrait ses portes;-
+372;1553.33;spk2;-;le fait de ce projet de ce nouveau projet de construire euh;-
+372;1556.914;spk2;-;quelque chose ensemble;-
+372;1558.724;spk2;-;euh de donner un peu de soi pour euh;-
+373;1562.166;spk2;spk2 spk1;oui pour cet établissement;-
+373;1562.166;spk1;spk2 spk1;hm;-
+374;1563.716;spk2;-;ça m'a;-
+374;1564.358;spk2;-;l'idée m'avait bien plu donc je suis partie;-
+374;1566.724;spk2;-;je suis restée;-
+374;1568.705;spk2;-;douze treize ans;-
+375;1569.474;spk1;-;d'accord;-
+376;1570.032;spk2;-;ouais;-
+376;1571.383;spk2;-;j'ai démissionné y a;-
+376;1573.792;spk2;-;quatre ans ouais quatre ans;-
+376;1575.523;spk2;-;parce que j'avais l'impression d'avoir un petit peu fait le tour et;-
+377;1579.792;spk2;spk2 spk1;donc ça reprenait un peu non c'était des adultes toujours ouais;-
+377;1579.792;spk1;spk2 spk1;donc là c'était avec des enfants aussi ah des adultes;-
+378;1583.571;spk2;-;des adultes ouais hm hm;-
+378;1585.98;spk2;-;et donc euh et puis j'avais en-;-
+378;1585.98;-;spk2;-;pf
+378;1588.797;spk2;-;j'avais aussi o- à l'heure actuelle j'ai envie de plus d'autonomie de;-
+378;1592.672;spk2;-;parce que quand on est dans un établissement en tant qu'éducateur on n'est pas forcément;-
+378;1596.86;spk2;-;autonome on travaille avec une équipe on a un chef de service;-
+379;1600.471;spk2;spk2 spk1;un directeur;-
+379;1600.471;spk1;spk2 spk1;ouais ouais;-
+380;1602.346;spk2;-;bon on est quand même bien euh;-
+380;1604.226;spk2;-;dans des dans des missions bien définies on n'a pas forcément euh;-
+380;1608.389;spk2;-;même si on participe euh euh au projet à la discussion des projets;-
+380;1612.576;spk2;-;on n'est pas euh comment dire euh;-
+380;1616.134;spk2;-;on n'est pas force de proposition on;-
+380;1618.903;spk2;-;enfin moi c'est des choses qui m-;-
+380;1620.903;spk2;-;j'étais un peu une;-
+381;1621.453;spk2;spk2 spk1;exécutante quoi;-
+381;1621.453;spk1;spk2 spk1;hm hm hm;-
+381;1622.874;spk2;spk2 spk1;ça m'a convenu et à un moment donné j'avais envie d'autres choses donc j'avais envie;-
+381;1622.874;spk1;spk2 spk1;vous aviez envie de d'autres choses ouais;-
+382;1626.32;spk2;-;je me disais avec l'expérience que j'ai;-
+382;1628.6;spk2;-;je pense que je suis en capacité d'apporter autre chose;-
+383;1631.159;spk1;-;hm hm hm;-
+384;1631.952;spk2;-;et donc euh j'ai;-
+384;1633.351;spk2;-;j'ai postulé à un nouveau service euh qui ouvrait sur Orléans;-
+384;1638.144;spk2;-;non Saint-Jean-de-Braye enfin à l'époque c'était Orléans maintenant on a;-
+385;1640.625;spk2;spk2 spk1;déménagé sur Saint-Jean-de-Braye;-
+385;1640.625;spk1;spk2 spk1;ouais;-
+386;1642.307;spk2;-;donc là c'est un service d'accompagnement à la vie sociale;-
+387;1646.086;spk1;-;donc qui accueille euh;-
+388;1647.413;spk2;-;qui a- on n'accueille personne;-
+389;1648.908;spk1;-;ah;-
+390;1649.201;spk2;-;on travaille à domicile;-
+391;1650.143;spk2;spk2 spk1;en fait c'est cette idée-là;-
+391;1650.143;spk1;spk2 spk1;d'accord;-
+392;1651.35;spk2;-;qui m'intéressait;-
+392;1652.383;spk2;-;avec les nouvelles lois là sur le handicap;-
+393;1655.248;spk2;-;euh on maintient de plus en plus les gens;-
+394;1657.701;spk2;spk2 spk1;à domicile qui le souhaitent évidemment et qui sont en capacité de rester;-
+394;1657.701;spk1;spk2 spk1;oui oui hm hm hm;-
+395;1661.811;spk2;-;et donc euh;-
+395;1662.966;spk2;-;cette idée-là elle me plaisait en fait;-
+395;1664.941;spk2;-;plutôt que d'accompagner euh;-
+395;1666.677;spk2;-;des personnes dans leur projet de vie à l'intérieur d'un établissement;-
+396;1668.992;spk2;spk2 spk1;où y a une collectivité de toute façon;-
+396;1668.992;spk1;spk2 spk1;ouais hm hm;-
+397;1672.018;spk2;-;là c'était plutôt les aider et euh;-
+397;1674.379;spk2;-;chercher des euh étayer au maximum chercher des des partenaires euh;-
+397;1679.336;spk2;-;pour euh essayer de les maintenir au maximum;-
+398;1681.432;spk2;spk2 spk1;à leur domicile;-
+398;1681.432;spk1;spk2 spk1;d'accord;-
+399;1682.458;spk2;-;dans les conditions de vie qu'ils souhaitent;-
+399;1684.1;spk2;-;dans le projet qu'ils ont choisi;-
+400;1685.824;spk2;spk2 spk1;enfin voilà être là plutôt euh;-
+400;1685.824;spk1;spk2 spk1;d'accord d'accord;-
+401;1687.903;spk2;-;pour euh bah oui étayer qu- tout ça;-
+402;1690.456;spk2;spk2 spk1;les guider euh;-
+402;1690.456;spk2;spk2 spk1;-;pif
+402;1690.456;spk1;spk2 spk1;qu'ils puissent rester chez eux et vivre leurs euh leurs projets d'accord;-
+403;1694.98;spk2;-;donc euh;-
+403;1697.701;spk2;-;j'ai postulé euh la directrice était enchantée de me voir arriver parce que euh;-
+403;1702.177;spk2;-;eh ben euh;-
+403;1703.167;spk2;-;comme c'était un nouveau service euh c'était beaucoup de jeunes qui se présentaient;-
+404;1707.167;spk2;spk2 spk1;et elle voulait des gens avec expérience pour euh;-
+404;1707.167;spk1;spk2 spk1;d'accord hm avec un peu plus d'expériences oui;-
+404;1710.369;spk2;spk2 spk1;franchement l'entretien d'embauche euh j'ai pas eu l'impression que c'était un entretien d'embauche j'ai même rappelé euh;-
+404;1710.369;spk1;spk2 spk1;-;rire
+404;1716.143;spk2;spk2 spk1;en lui disant mais vous êtes sûre ?;-
+404;1716.143;spk1;spk2 spk1;-;rire
+404;1719.273;spk2;spk2 spk1;mais oui elle me dit vous voulez un courrier ? j'ai dit oui oui mais je la croyais pas non franchement je me suis dit;-
+404;1719.273;spk1;spk2 spk1;-;rire
+405;1724.561;spk2;-;c'est pas un entretien d'embauche ouais c'était assez curieux comme;-
+405;1727.388;spk2;-;c'était vraiment un échange;-
+405;1728.433;spk2;-;ouais ouais;-
+406;1729.003;spk1;-;bah pré- ça présageait que du bon pour euh;-
+407;1731.075;spk2;spk2 spk1;ouais mais bon moi euh j'étais pas habituée à ça me préparer bien euh;-
+407;1731.075;spk1;spk2 spk1;pour la suite aussi;-
+407;1731.075;spk1;spk2 spk1;-;rire
+407;1735.094;spk2;spk2 spk1;à des trucs bien précis questions réponses euh je me suis dit il va y avoir des petits pièges euh;-
+407;1735.094;spk1;spk2 spk1;oui ouais;-
+407;1739.806;spk2;spk2 spk1;j'avais un peu préparé ça mais alors pas du tout je me suis sentie très rapidement à l'aise;-
+407;1739.806;spk1;spk2 spk1;-;rire
+407;1744.426;spk2;spk2 spk1;et puis elle aussi apparemment la directrice;-
+407;1744.426;spk1;spk2 spk1;ouais;-
+408;1746.787;spk2;-;et puis ce qui m'a plu en fait dans cette idée c'était bah construire un service où on partait de rien;-
+409;1751.429;spk1;-;d'accord;-
+410;1752.251;spk2;-;on avait rien on avait juste euh le budget;-
+410;1755.213;spk2;-;euh des locaux;-
+410;1757.021;spk2;-;et puis euh bah fallait y aller construire tous les outils euh;-
+410;1760.896;spk2;-;l'équipe était jeune;-
+411;1762.238;spk2;spk2 spk1;ils sortaient tous de l'école là on est sept;-
+411;1762.238;spk1;spk2 spk1;hm hm et vous êtes combien dans cette é- dans cette équipe ? d'accord;-
+412;1766.43;spk2;-;donc euh l'équipe était très jeune et c'est pareil ils avaient;-
+413;1770.089;spk2;spk2 spk1;à la limite la personne handicapée ils l'avaient;-
+413;1770.089;spk1;spk2 spk1;tout à découvrir;-
+413;1770.089;spk1;spk2 spk1;-;rire
+414;1772.45;spk2;-;pas forcément approchée dans l- leur cursus de formation donc euh;-
+414;1776.061;spk2;-;c'était vraiment moi c- c- cette idée-là;-
+414;1778.518;spk2;-;et euh la directrice me disait moi je veux quelqu'un d'autonome;-
+414;1781.576;spk2;-;qui euh prenne des décisions euh bah parce que;-
+415;1784.227;spk2;spk2 spk1;quand on est;-
+415;1784.227;spk1;spk2 spk1;hm;-
+416;1784.588;spk2;-;au domicile des gens bah;-
+416;1786.004;spk2;-;on peut pas leur dire bah dans quinze jours je vous donnerai un réponse;-
+417;1788.533;spk1;-;oui hm hm hm;-
+418;1789.547;spk2;-;des fois on est un peu dans l'urgence donc euh;-
+418;1792.076;spk2;-;bon pas dans l'urgence médicale on est dans une urgence quand même quand il y a une demande et que;-
+419;1796.552;spk2;spk2 spk1;on sait que ça va faciliter euh;-
+419;1796.552;spk1;spk2 spk1;oui faut répondre quoi hm;-
+420;1798.382;spk2;-;la vie des personnes et qu'on sait qu'actuellement euh dans ce qui vit il est en souffrance on peut pas se permettre de leur dire;-
+420;1804.29;spk2;-;bah je vous répondrai;-
+421;1805.18;spk2;spk2 spk1;dans quinze jours donc euh;-
+421;1805.18;spk1;spk2 spk1;ouais hm hm hm;-
+422;1806.641;spk2;-;faut trouver des solutions rapides;-
+422;1808.713;spk2;-;et euh donc c'est toutes ces idées-là qui me plaisaient euh;-
+422;1812.564;spk2;-;euh le fait d'être euh de prendre des responsabilités euh;-
+422;1816.343;spk2;-;le fait aussi d'accompagner euh l'équipe euh;-
+422;1819.256;spk2;-;même si je suis pas cadre hein je suis au même niveau qu'eux hein;-
+422;1823.179;spk2;-;mais bon euh mon expérience euh;-
+422;1825.419;spk2;-;sert quand même parce que il sen- ils s'appuient dessus et bon c'est vrai qu'ils me questionnent aussi pas mal;-
+422;1831.823;spk2;-;et donc voilà ça fait;-
+423;1832.637;spk2;spk2 spk1;quatre ans que j'y suis;-
+423;1832.637;spk1;spk2 spk1;d'accord;-
+424;1833.589;spk2;-;et puis actuellement je suis en j'entame une formation;-
+424;1837.265;spk2;-;enfin je suis en deuxième année là;-
+425;1839.121;spk2;spk2 spk1;mais après j'arrête;-
+425;1839.121;spk1;spk2 spk1;-;rire
+425;1841.722;spk2;spk2 spk1;là je sais même pas dans quoi je enfin si je sais mais je me dis euh;-
+425;1841.722;spk1;spk2 spk1;-;rire
+425;1845.765;spk2;spk2 spk1;bon;-
+425;1845.765;spk1;spk2 spk1;-;rire
+426;1846.948;spk2;spk2 spk1;tout le monde me dit tout;-
+426;1846.948;spk1;spk2 spk1;après j'arrête;-
+426;1846.948;spk1;spk2 spk1;-;rire
+427;1848.968;spk2;-;le monde me dit mais c'est mais arrête là;-
+428;1851.015;spk2;spk2 spk1;stop mais euh ça enfin l'idée;-
+428;1851.015;spk1;spk2 spk1;-;rire
+429;1853.962;spk2;-;je sais pas d- de former moi je trouve;-
+429;1855.683;spk2;-;mais au moins c'est que des formations;-
+430;1857.146;spk2;spk2 spk1;professionnelles mes choix donc euh;-
+430;1857.146;spk1;spk2 spk1;oui hm hm hm;-
+431;1858.933;spk2;-;donc euh là je suis en formation de cadre intermédiaire;-
+431;1862.447;spk2;-;pour être euh;-
+431;1864.159;spk2;-;directeur adjoint;-
+432;1865.427;spk2;spk2 spk1;de structure;-
+432;1865.427;spk1;spk2 spk1;d'accord;-
+433;1866.281;spk1;-;d'accord;-
+434;1866.832;spk2;-;où euh je travaille actuellement avec ce diplôme-là;-
+434;1869.337;spk2;-;je pourrais être directrice parce que c'est;-
+435;1870.968;spk2;spk2 spk1;pas une grosse structure;-
+435;1870.968;spk1;spk2 spk1;d'accord d'accord d'accord;-
+436;1872.846;spk2;-;donc euh voilà mon projet est euh à l'heure actuelle euh;-
+436;1872.846;-;spk2;-;pf
+436;1877.082;spk2;-;je me dis que j'ai tellement appris euh j'ai;-
+436;1879.611;spk2;-;tellement on m'a tellement appris que j'ai envie de transmettre à mon tour;-
+436;1883.871;spk2;-;mais pas transmettre on m'a proposé de donner des cours à l'école du travail social mais j'ai refusé parce que;-
+436;1889.597;spk2;-;mais ch- ça s'apprend quoi;-
+437;1891.672;spk1;-;hm;-
+438;1891.936;spk2;-;c'est pas;-
+439;1893.184;spk2;-;je peux transmettre mais sans transmettre en fait faut que les gens euh c-;-
+439;1897.347;spk2;-;prennent;-
+439;1898.217;spk2;-;ce que j'ai à leur donner je peux pas euh ch- c- enfin j'ai pas la pédagogie quoi;-
+440;1902.573;spk2;spk2 spk1;moi je me dis euh;-
+440;1902.573;spk1;spk2 spk1;ouais;-
+441;1903.876;spk2;-;euh c'est important une formation je sais que c'est important et j'ai pas envie euh;-
+441;1908.015;spk2;-;bah voilà d'y aller juste euh soit pour me faire plaisir soit non donc euh je;-
+441;1912.779;spk2;-;j'ai refusé de;-
+442;1913.866;spk2;spk2 spk1;de d'apporter des trucs non;-
+442;1913.866;spk1;spk2 spk1;d'accord hm hm hm hm hm hm;-
+443;1916.212;spk2;-;j'ai dit que je peux amener des témoignages euh sur de s-;-
+443;1919.135;spk2;-;ce que je vis euh dans mon quotidien professionnel;-
+444;1921.031;spk2;spk2 spk1;professionnel;-
+444;1921.031;spk1;spk2 spk1;ouais;-
+445;1921.67;spk2;-;mais euh mais des cours;-
+446;1922.481;spk2;spk2 spk1;ouais voilà c'est pas bah non;-
+446;1922.481;spk1;spk2 spk1;ouais hm hm hm pas sous cette forme-là quoi hm;-
+447;1925.139;spk2;-;c'est pas je suis pas formée pour et euh bon;-
+448;1927.294;spk2;spk2 spk1;voilà chacun son métier euh;-
+448;1927.294;spk1;spk2 spk1;hm hm hm hm hm hm;-
+449;1929.342;spk2;-;non moi je;-
+450;1930.134;spk2;spk2 spk1;c'est pas non je suis;-
+450;1930.134;spk1;spk2 spk1;-;rire
+451;1931.815;spk2;-;assez honnête quand même là-dessus je me dis euh;-
+451;1933.991;spk2;-;je sais que moi j'ai galéré dans des formations avec des gens qui étaient pas forcément euh;-
+451;1938.746;spk2;-;euh qui apportaient pas grand chose enfin qui n'apportaient rien euh;-
+451;1942.342;spk2;-;et non j'ai pas envie;-
+452;1943.776;spk2;spk2 spk1;de prendre cette place-là et euh;-
+452;1943.776;spk1;spk2 spk1;oui ça oui hm hm hm;-
+453;1945.368;spk2;-;de les leurrer et de leur non;-
+453;1947.034;spk2;-;non donc euh j'ai refusé;-
+453;1949.732;spk2;-;donc je continue à me former;-
+454;1951.486;spk2;spk2 spk1;et après j'arrête là;-
+454;1951.486;spk1;spk2 spk1;d'accord;-
+454;1952.621;spk2;spk2 spk1;enfin bon oh non ça me prend un temps fou;-
+454;1952.621;spk1;spk2 spk1;-;rire
+455;1955.361;spk2;-;là je rentre de cours j'ai pas mal d'écrits à faire;-
+455;1958.702;spk2;-;donc j'ai mon travail et puis;-
+456;1960.221;spk1;-;et là donc euh;-
+456;1961.933;spk1;-;vous donc c'est formation plus;-
+457;1963.698;spk1;spk1 spk2;travail en même temps ? d'accord;-
+457;1963.698;spk2;spk1 spk2;bah ouais bah ouais;-
+458;1965.592;spk2;-;donc j'ai des jours de dégagés pour aller en formation;-
+458;1967.953;spk2;-;mais tout ce qui est euh travail euh sur les écrits mes lectures;-
+458;1971.054;spk2;-;bah c'est sur mon temps perso;-
+459;1971.943;spk1;-;et ouais ouais ouais ouais;-
+460;1973.099;spk2;-;donc;-
+461;1973.433;spk2;spk2 spk1;euh des fois euh;-
+461;1973.433;spk1;spk2 spk1;oui c'est lourd quoi;-
+461;1975.433;spk2;spk2 spk1;ouais à force j'ai envie de faire autre chose ouais je suis en deuxième année;-
+461;1975.433;spk1;spk2 spk1;hm et c'est deux ans la formation ? ouais d'accord donc à la fin de l'année c'est;-
+461;1979.452;spk2;spk2 spk1;septembre je passe ma soutenance de mémoire et puis après;-
+461;1979.452;spk1;spk2 spk1;c'est d'accord d'accord;-
+461;1982.846;spk2;spk2 spk1;c'est fini;-
+461;1982.846;spk1;spk2 spk1;d'accord ouais;-
+462;1984.029;spk2;-;moi j'y crois pas trop hein j'ai déjà validé un un UF;-
+462;1986.846;spk2;-;mais bon même en validant l'autre euh j'en ai quatre à valider;-
+462;1990.344;spk2;-;franchement j'y crois pas trop;-
+462;1990.344;-;spk2;-;rire
+462;1992.336;spk2;-;parce que euh je me rends compte que je fatigue un peu et que;-
+462;1996.283;spk2;-;j'ai plus euh vraiment la pêche euh;-
+462;1996.283;-;spk2;-;pf
+463;1998.98;spk2;spk2 spk1;des fois ouais;-
+463;1998.98;spk1;spk2 spk1;bah ça doit être aussi difficile voilà de mener les deux euh;-
+464;2002.037;spk1;-;en parallèle;-
+465;2003.36;spk2;-;ouais mais bon je me dis;-
+465;2003.36;-;spk2;-;pf
+465;2005.36;spk2;-;ouais c'est c'est forc- je sais pas j'ai l'impression que euh;-
+465;2009.195;spk2;-;oui non j- ch- je suis pas forcément bien dans cette formation;-
+466;2012.587;spk1;-;hm hm;-
+467;2012.904;spk2;-;c'est beaucoup de théorie et moi qui suis quelqu'un de terrain;-
+467;2015.409;spk2;-;y a un sacré;-
+468;2016.241;spk2;spk2 spk1;décalage;-
+468;2016.241;spk1;spk2 spk1;ouais;-
+468;2016.899;spk2;spk2 spk1;entre ce qu'on nous apprend et ce qu'on vit dans le quotidien;-
+468;2016.899;spk1;spk2 spk1;ouai ouais ouais hm hm hm;-
+469;2019.552;spk2;-;professionnel et;-
+469;2020.63;-;spk2;-;i
+470;2022.917;spk2;spk2 spk1;un petit peu quoi de;-
+470;2022.917;spk1;spk2 spk1;ouais hm hm hm;-
+471;2024.168;spk2;-;me bouffer de la théorie et je me dis mais je m'en servirai jamais quoi;-
+472;2027.081;spk1;-;ouais;-
+473;2027.346;spk2;-;de la conduite de projet euh;-
+473;2029.37;spk2;-;c'est super intéressant euh;-
+473;2030.889;spk2;-;techniquement de savoir;-
+474;2032.384;spk2;spk2 spk1;mais concrètement euh sur le terrain euh;-
+474;2032.384;spk1;spk2 spk1;mais dans les faits ça se pa- ouais hm hm;-
+475;2035.081;spk2;-;on n'a pas forcément les moyens de conduire des projets comme euh;-
+475;2038.115;spk2;-;bon après euh faut en prendre en essai mais moi je suis quelqu'un de très;-
+476;2041.024;spk2;spk2 spk1;&pratico-pratique donc je suis pas;-
+476;2041.024;spk1;spk2 spk1;ouais ouais ouais ouais ouais;-
+477;2043.51;spk2;-;c'est;-
+477;2044.621;spk2;-;mais ce que j- ch- c- j- ce que suis aujourd'hui euh;-
+477;2047.27;spk2;-;faut aller le rechercher avant hein;-
+478;2048.602;spk2;spk2 spk1;j'ai jamais été non plus euh;-
+478;2048.602;spk1;spk2 spk1;ouais hm hm hm;-
+479;2051.208;spk2;-;à l'école;-
+479;2052.078;spk2;-;ça a jamais été mon truc euh;-
+479;2054.078;spk2;-;parce que voilà;-
+479;2055.189;spk2;-;pour plein de raisons euh;-
+479;2056.131;spk2;-;donc aujourd'hui on le retrouve toujours;-
+480;2057.457;spk2;spk2 spk1;hein je suis quelqu'un de terrain;-
+480;2057.457;spk1;spk2 spk1;ouais ouais ouais ouais hm hm hm;-
+480;2059.742;spk2;spk2 spk1;mais bon;-
+480;2059.742;spk1;spk2 spk1;-;rire
+481;2061.189;spk1;-;donc la théorie un peu mais;-
+482;2063.333;spk1;spk1 spk2;pas trop trop;-
+482;2063.333;spk2;spk1 spk2;bah la théorie;-
+483;2064.398;spk2;-;je m'en sers parce que y a c-;-
+483;2066.078;spk2;-;ça par exemple en psycho ça explique certains comportements c'est;-
+483;2069.905;spk2;-;c'est pas forcément je prends pas ça pour argent comptant non plus mais;-
+483;2072.818;spk2;-;ça éclaire quand même hein sur certains comportements;-
+483;2075.467;spk2;-;sur même euh;-
+483;2077.204;spk2;-;sur les;-
+483;2078.024;spk2;-;comment les les groupes fonctionnent;-
+484;2079.558;spk2;spk2 spk1;des choses comme ça c'est aussi euh;-
+484;2079.558;spk1;spk2 spk1;hm hm hm hm hm hm;-
+485;2081.438;spk2;-;intéressant d'aller euh voir un petit peu pourquoi euh;-
+485;2084.376;spk2;-;ou euh qu'es-ce q-;-
+485;2085.39;spk2;-;qu'est-ce qui va se passer au moment où euh;-
+485;2087.702;spk2;-;voilà où on va mettre ça en place où on va un peu jeter le pavé euh;-
+485;2091.433;spk2;-;de c- d- de d'avoir prévu un petit peu comment ça va réagir;-
+486;2095.068;spk2;spk2 spk1;et puis euh;-
+486;2095.068;spk1;spk2 spk1;hm hm hm hm;-
+487;2096.251;spk2;-;avoir euh comme on dit euh d'autres cartes quoi euh avoir des arguments;-
+488;2100.059;spk2;spk2 spk1;d'avoir appris pas grand chose c'est aussi intéressant de;-
+488;2100.059;spk1;spk2 spk1;ouais ouais hm hm hm;-
+489;2102.684;spk2;-;mais bon;-
+489;2104.022;spk2;-;voilà c'est;-
+490;2105.141;spk1;-;d'accord;-
+491;2107.194;spk2;-;bon j'ai été longue;-
+492;2108.251;spk2;spk2 spk1;sur ma présentation;-
+492;2108.251;spk1;spk2 spk1;-;rire
+493;2109.818;spk1;-;non mais c'est très bien;-
+493;2109.818;-;spk1;-;rire
+494;2112.029;spk2;-;donc euh y a aussi ça fait pas longtemps qu'on habite là;-
+495;2115.092;spk1;-;oui voilà j'a- parce que j- j'allais enchaîner sur le le quartier ou euh Fleury ou euh;-
+496;2120.626;spk2;-;moi donc euh ça fait on n'est là que depuis cet été;-
+497;2123.66;spk1;-;d'accord;-
+497;2123.967;spk1;-;donc c'était d- un des arguments que je mettais en avant à Marine;-
+498;2126.598;spk2;spk2 spk1;où je lui disais;-
+498;2126.598;spk1;spk2 spk1;-;rire
+498;2127.563;spk2;spk2 spk1;mais ça fait pas longtemps que j- j'habite l'&agglo tu sais Marine elle me dit;-
+498;2127.563;spk1;spk2 spk1;-;rire
+498;2130.501;spk2;spk2 spk1;mais c'est pas grave alors je lui dis ouais mais ça va un peu fausser les choses euh;-
+498;2130.501;spk1;spk2 spk1;-;rire
+498;2134.568;spk2;spk2 spk1;elle me dit non mais attends euh ça fait vingt ans que tu travailles euh en &agglo euh;-
+498;2134.568;spk1;spk2 spk1;-;rire
+498;2138.731;spk2;spk2 spk1;bon j'ai dit bon donc j'essayais de;-
+498;2138.731;spk1;spk2 spk1;-;rire
+499;2141.476;spk1;-;donc avant vous n'étiez pas dans l'&agglo;-
+500;2142.898;spk2;-;non;-
+501;2143.26;spk2;spk2 spk1;non;-
+501;2143.26;spk2;spk2 spk1;-;rire
+501;2143.26;spk1;spk2 spk1;non;-
+501;2143.26;spk1;spk2 spk1;-;rire
+502;2144.23;spk2;-;avant j'étais à Meung-sur-Loire;-
+503;2145.47;spk1;-;d'accord;-
+504;2146.077;spk2;-;qui est situé entre Orléans;-
+505;2147.822;spk2;spk2 spk1;et Blois;-
+505;2147.822;spk1;spk2 spk1;ouais ça je connais;-
+505;2148.87;spk2;spk2 spk1;donc on a Marine a grandi là-bas euh;-
+505;2148.87;spk1;spk2 spk1;hm d'accord;-
+506;2152.168;spk2;-;elle est née d'ailleurs euh à dans la maison que j'ai laissée là;-
+507;2155.971;spk1;-;ouais;-
+508;2156.409;spk2;-;euh cet été au mois d'août;-
+508;2158.682;spk2;-;vu que;-
+509;2159.635;spk1;-;et jusque là en fait vous habitiez là dans cette région de Meung ou;-
+510;2162.476;spk1;spk1 spk2;de la boulan- d'accord d'accord;-
+510;2162.476;spk2;spk1 spk2;ouais on est arrivé à Meung-sur-Loire y a;-
+510;2165.341;spk1;spk1 spk2;d'accord hm hm hm ouais;-
+510;2165.341;spk2;spk1 spk2;bah en quatre-vingt-cinq Nicolas avait deux ans;-
+511;2168.495;spk2;-;et puis euh bah j'en suis partie là en;-
+512;2170.759;spk2;spk2 spk1;quatre-vingt en deux mille neuf;-
+512;2170.759;spk1;spk2 spk1;d'accord hm hm;-
+513;2172.903;spk1;-;oui;-
+514;2173.216;spk2;-;ouais;-
+515;2174.807;spk2;spk2 spk1;voilà;-
+515;2174.807;spk1;spk2 spk1;et ici alors;-
+516;2175.672;spk1;-;vous vous y plaisez ?;-
+517;2177.793;spk2;-;alors bah ouais;-
+518;2179.192;spk2;spk2 spk1;bah je m'y plais;-
+518;2179.192;spk1;spk2 spk1;ouais;-
+519;2179.699;spk2;-;parce que je pars sur un nouveau projet un peu sans les enfants;-
+520;2182.514;spk2;spk2 spk1;on va dire;-
+520;2182.514;spk1;spk2 spk1;ouais ouais;-
+521;2183.428;spk2;-;donc bon c'est;-
+521;2185.091;spk2;-;c'est ce qui est intéressant je disais toujours euh;-
+521;2187.428;spk2;-;ça faisait rire tout le monde;-
+522;2189.091;spk2;spk2 spk1;euh;-
+522;2189.091;spk1;spk2 spk1;-;rire
+523;2190.129;spk2;-;bah tu as refait ta vie je dis non moi j'ai une;-
+524;2192.153;spk2;spk2 spk1;deuxième vie j'aurai une deuxième vie un jour;-
+524;2192.153;spk1;spk2 spk1;hm;-
+524;2192.153;spk1;spk2 spk1;-;rire
+525;2194.946;spk2;-;je savais que j'avais mis un peu ma vie un peu entre parenthèse même si j'avais une relation euh;-
+526;2199.494;spk1;-;ouais;-
+527;2199.855;spk2;-;mais qui était pas euh;-
+527;2202.071;spk2;-;viv- v- vécue ouvertement et euh;-
+527;2204.792;spk2;-;que voilà euh;-
+527;2206.147;spk2;-;donc j'avais toujours ma vie de mère;-
+528;2207.826;spk2;spk2 spk1;quand les enfants était là;-
+528;2207.826;spk1;spk2 spk1;hm hm hm;-
+529;2208.696;spk2;-;et j'avais ma vie privée euh qui était euh quand euh j'avais;-
+530;2211.444;spk2;spk2 spk1;pas les enfants;-
+530;2211.444;spk1;spk2 spk1;voilà hm hm hm;-
+531;2213.918;spk2;-;et donc euh pourquoi Fleury bah parce que euh;-
+531;2217.336;spk2;-;je travaille à Saint-Jean-de-Braye moi;-
+532;2219.264;spk1;-;d'accord;-
+533;2219.918;spk2;-;mon amie travaille à Fleury;-
+533;2221.384;spk2;-;et puis euh;-
+533;2223.201;spk2;-;moi j'avais envie de me rapporcher un peu de la ville;-
+534;2225.225;spk2;spk2 spk1;la campagne;-
+534;2225.225;spk1;spk2 spk1;oui;-
+535;2225.829;spk2;-;ça me gavait un peu;-
+536;2227.225;spk1;-;bah vous avez tenu longtemps quand même;-
+537;2228.525;spk1;spk1 spk2;-;rire
+537;2228.525;spk2;spk1 spk2;ouais mais parce que les enfants s'y plaisaient tellement que;-
+538;2232.062;spk2;-;je enfin ils avaient tous leurs;-
+539;2234.039;spk2;spk2 spk1;amis euh je voulais pas qu'ils euh;-
+539;2234.039;spk1;spk2 spk1;et oui ça;-
+540;2236.418;spk2;-;bon déjà la séparation c'était pas évident hein pour des enfants c'est jamais évident;-
+540;2240.702;spk2;-;donc euh je voulais qu'y ait en plus cette rupture de changer de maison;-
+541;2244.072;spk1;-;hm hm hm;-
+542;2244.654;spk2;spk2 spk1;changer d'école changer d'amis euh;-
+542;2244.654;spk1;spk2 spk1;changer d'école oui hm;-
+543;2246.75;spk2;-;je;-
+543;2247.452;spk2;-;enfin j'ai tellement repéré que dans la vie d'un enfant la stabilité est ce qui;-
+544;2251.159;spk2;spk2 spk1;y avait de plus important;-
+544;2251.159;spk1;spk2 spk1;hm hm hm hm;-
+545;2252.654;spk2;-;qu'elle soit matérielle qu'elle soit affective qu'elle soit;-
+545;2255.88;spk2;-;que j'avais vraiment envie euh qu'ils aient cette s- stabilité-là quoi et euh;-
+545;2259.659;spk2;-;je voulais pas euh;-
+545;2261.659;spk2;-;je voulais p-;-
+545;2263.01;spk2;-;c'était déjà assez compliqué pour eux;-
+545;2265.25;spk2;-;donc euh j'ai voulu euh;-
+546;2266.55;spk2;spk2 spk1;que derrière euh tout soit voilà;-
+546;2266.55;spk1;spk2 spk1;attendre qu'ils soient ouais;-
+547;2268.813;spk2;-;que je &redéstabilise pas d'autres choses que c'était non je voulais pas de ça donc euh;-
+547;2274.448;spk2;-;mais moi je me suis pas déplue même si euh;-
+547;2274.448;-;spk2;-;pf
+547;2277.41;spk2;-;au niveau euh relationnel on va dire dans le Loiret;-
+547;2280.995;spk2;-;j- je me suis jamais fait vraiment d'amis;-
+548;2283.283;spk1;-;hm hm;-
+549;2283.74;spk2;-;parce que euh c'est ce que je dis toujours hein les Orléanais c'est très fermé;-
+550;2288.625;spk2;spk2 spk1;enfin je le ressens;-
+550;2288.625;spk1;spk2 spk1;ouais votre sentiment ouais ouais;-
+551;2291.058;spk2;-;c'est vraiment très fermé ça;-
+551;2293.226;spk2;-;ils fonctionnent par euh comment dire euh;-
+551;2296.139;spk2;-;euh par groupe alors euh ils sont beaucoup en famille je trouve;-
+552;2299.894;spk2;spk2 spk1;bon enfin moi je suis pas très famille c'est peut-être ce qui fait que;-
+552;2299.894;spk1;spk2 spk1;ouais d'accord;-
+552;2299.894;spk1;spk2 spk1;-;rire
+552;2303.384;spk2;spk2 spk1;alors je suis pas très famille mais par contre avec mes enfants c'est mais je suis pas;-
+552;2303.384;spk1;spk2 spk1;-;rire
+552;2307.547;spk2;spk2 spk1;très famille euh élargie on va dire euh j'ai des soeurs mais on se voit pas euh;-
+552;2307.547;spk1;spk2 spk1;ouais ouais hm;-
+553;2312.768;spk2;-;euh;-
+553;2313.734;spk2;-;ma mère je la vois euh enfin on va aller faire Noël là fin janvier;-
+554;2316.888;spk2;spk2 spk1;enfin voilà c'est on même un peu chacun notre vie euh;-
+554;2316.888;spk1;spk2 spk1;d'accord ouais ouais ouais hm hm hm hm hm hm;-
+554;2320.652;spk2;spk2 spk1;mais euh par contre avec mes enfants je suis très famille;-
+554;2320.652;spk1;spk2 spk1;-;rire
+555;2324.96;spk2;-;mais euh je sais plus ce que je disais du coup;-
+556;2327.681;spk1;-;oui non que les Orléanais;-
+557;2329.242;spk1;spk1 spk2;euh voilà étaient euh;-
+557;2329.242;spk2;spk1 spk2;oui j'ai jamais eu vraiment b-;-
+558;2331.676;spk2;-;d'amis à Orléans;-
+558;2333.017;spk2;-;les seuls amis;-
+558;2334.661;spk2;-;que j'ai;-
+558;2335.647;spk2;-;je me suis rendue compte que c'était pas des gens d'Orléans;-
+559;2337.815;spk1;-;d'accord;-
+560;2338.248;spk2;-;et à chaque fois et du coup euh très vite quand je sympathise avec quelqu'un;-
+561;2341.594;spk2;spk2 spk1;très vite j'en viens euh;-
+561;2341.594;spk1;spk2 spk1;vous êtes pas d'Orléans;-
+561;2343.325;spk2;spk2 spk1;je leur dis vous êtes de la région et souvent ils me font;-
+561;2343.325;spk1;spk2 spk1;-;rire
+561;2346.046;spk2;spk2 spk1;non non non moi je viens de donc c'est ce qui explique;-
+561;2346.046;spk1;spk2 spk1;-;rire
+562;2349.488;spk2;-;et euh;-
+562;2350.983;spk2;-;ouais je les gens même en face me disent bah ouais c'est vrai tu as raison les gens d'ici en fait dans notre réseau euh;-
+562;2357.19;spk2;-;non pas trop de g- de gens d'ici quoi;-
+562;2359.57;spk2;-;moi je trouve qu'ils sont très très fermés et tout est cloisonné ici;-
+563;2363.06;spk2;spk2 spk1;enfin je le vis comme ça hein;-
+563;2363.06;spk1;spk2 spk1;ouais ouais ouais ouais;-
+564;2364.94;spk2;-;j'ai eu une amie qui est d'Orléans euh enfin qui est née vraiment ici qui est vraiment du coin et euh;-
+564;2370.69;spk2;-;euh ça fait euh;-
+564;2370.69;-;spk2;-;pf
+564;2372.45;spk2;-;plus de vingt ans hein qu'on est amies et vraiment euh très amies;-
+564;2375.892;spk2;-;et euh;-
+564;2377.027;spk2;-;j'ai rencontré sa famille euh très très rarement;-
+565;2380.344;spk1;-;oui;-
+566;2380.709;spk2;-;parce que euh comme si voilà quand;-
+566;2382.733;spk2;-;y a moi bah y a;-
+567;2383.796;spk2;spk2 spk1;pas la famille quand y a alors que moi j-;-
+567;2383.796;spk1;spk2 spk1;d'accord d'accord ouais ouais ouais alors que;-
+567;2386.95;spk2;spk2 spk1;moi y a des amis;-
+567;2386.95;spk1;spk2 spk1;hm hm hm;-
+568;2388.065;spk2;-;qui arrivent ou j'ai des amis et de la famille qui arrivent;-
+568;2390.969;spk2;-;bon bah voilà on agrandit;-
+569;2391.92;spk2;spk2 spk1;la table enfin enfin je sais pas c'est;-
+569;2391.92;spk1;spk2 spk1;ouais ouais ouais ouais ouais;-
+570;2395.229;spk2;-;pour moi je me pose même pas la question;-
+571;2396.714;spk1;-;ouais;-
+572;2396.983;spk2;-;et d'ailleurs y a des gens qui sont choqués qui me disent ah non non non on va pas te;-
+573;2400.474;spk2;spk2 spk1;-;pif
+573;2400.474;spk1;spk2 spk1;ah oui on va pas venir y a ta famille ou des ouais d'accord hm hm hm hm hm;-
+573;2406.705;spk2;spk2 spk1;-;pif
+573;2406.705;spk1;spk2 spk1;ouais hm hm hm;-
+574;2407.84;spk2;-;voilà on se sent bien on passe un bon moment on va pas se;-
+575;2410.532;spk1;-;ouais;-
+576;2411.402;spk2;-;mais bon je me suis rendue compte que ici ça se faisait pas beaucoup;-
+577;2414.243;spk1;-;d'accord d'accord;-
+578;2415.142;spk2;-;ouais;-
+579;2415.936;spk2;spk2 spk1;un peu ce que je ressens en en fait que;-
+579;2415.936;spk1;spk2 spk1;hm hm hm;-
+580;2419.191;spk2;-;peut-être que c'est je sais pas erroné par je sais pas quoi mais euh;-
+580;2423.114;spk2;-;donc euh;-
+580;2424.297;spk2;-;ouais sur Orléans franchement euh peu peu d'amis euh;-
+581;2427.475;spk2;spk2 spk1;peu d'amis et puis du coup bah j'ai coupé avec;-
+581;2427.475;spk1;spk2 spk1;d'ici ouais;-
+582;2429.478;spk2;-;mes amis de la région parisienne parce que;-
+582;2431.807;spk2;-;la distance euh;-
+582;2433.639;spk2;-;fait que on c'est b- beaucoup moins vu on a ch- on est chacun parti sur des parcours un peu euh;-
+582;2438.908;spk2;-;différents et c'est vrai que bon bah quand on est euh;-
+582;2441.461;spk2;-;adolescent ou jeune adulte et puis après quand on on devient adulte on va dire;-
+582;2446.49;spk2;-;bah on voit plus les choses;-
+583;2447.523;spk2;spk2 spk1;forcément de la même façon euh;-
+583;2447.523;spk1;spk2 spk1;oui bah oui oui;-
+584;2449.336;spk2;-;on a rencontré d'autres gens;-
+585;2450.519;spk2;spk2 spk1;on est allé vers d'autres choses;-
+585;2450.519;spk1;spk2 spk1;et on change et après euh;-
+585;2453.072;spk2;spk2 spk1;donc euh voilà j'ai;-
+585;2453.072;spk1;spk2 spk1;tout tout le monde change dans sa direction quoi;-
+586;2455.649;spk2;-;eu l'occasion de les revoir parce que euh par exemple pour des euh;-
+586;2459.596;spk2;-;je sais pas des des vingt ans;-
+587;2461.24;spk2;spk2 spk1;des trente ans des dix ans de mariage et hein;-
+587;2461.24;spk1;spk2 spk1;oui oui;-
+587;2463.601;spk2;spk2 spk1;et des fois je me disais mais qu'est-ce que je fais là franchement;-
+587;2463.601;spk1;spk2 spk1;ouais ouais ouais ouais hm hm hm hm;-
+588;2467.332;spk2;-;ça m'a coûté même une fois Marine m'en a parlé y a pas longtemps;-
+588;2470.558;spk2;-;tu m'as traînée;-
+589;2471.508;-;spk1;-;rire
+590;2472.082;spk2;-;au dix ans de mariage de ta copine mais plus jamais;-
+591;2474.813;spk2;spk2 spk1;et je dis;-
+591;2474.813;spk1;spk2 spk1;ah ouais;-
+591;2475.395;spk2;spk2 spk1;t'avais quinze ans Marine;-
+591;2475.395;spk1;spk2 spk1;-;rire
+591;2477.034;spk2;spk2 spk1;c'est aujourd'hui c'est sûr que je t'y emmènerai plus mais bon euh;-
+591;2477.034;spk1;spk2 spk1;-;rire
+591;2480.597;spk2;spk2 spk1;et euh je me suis rendue compte que franchement j'avais p-;-
+591;2480.597;spk1;spk2 spk1;-;rire
+592;2484.621;spk2;-;pas pas pas ra- plus rien avoir avec eux parce que;-
+592;2488.159;spk2;-;on est je suis pas au-dessus ou elle est pas en-des-;-
+593;2490.425;spk2;spk2 spk1;au-dessus non plus mais bah sur le moment on avait pas grand chose à se dire;-
+593;2490.425;spk1;spk2 spk1;non mais juste des parcours différents ou bah qui ont fait ouais;-
+594;2494.991;spk1;-;hm hm hm;-
+595;2495.419;spk2;-;à part euh bah on parlait euh quand on avait quinze ans mais bon;-
+595;2495.419;-;spk2;-;pf
+595;2498.818;spk2;-;franchement euh moi j'ai dépassé;-
+596;2500.54;spk2;spk2 spk1;tout ça quoi;-
+596;2500.54;spk1;spk2 spk1;hm hm hm hm;-
+597;2501.443;spk2;-;euh;-
+597;2503.308;spk2;-;franchement euh on s'est dit ouh là;-
+597;2505.943;spk2;-;donc bon bon maintenant souvent maintenant sur internet on est;-
+597;2509.481;spk2;-;contacté euh parce que;-
+598;2511.914;spk2;spk2 spk1;sur facebook je su-;-
+598;2511.914;spk1;spk2 spk1;oui;-
+599;2513.722;spk2;-;alors je me suis inscrite parce que une copine disait il faut t'inscrire je te je t'envoie des messages et tout;-
+599;2518.217;spk2;-;je fais oh là là moi;-
+599;2519.592;spk2;-;tout ça enfin c'est pas trop mon truc donc;-
+600;2521.239;spk2;spk2 spk1;donc;-
+600;2521.239;spk1;spk2 spk1;ouais;-
+601;2521.403;spk2;-;du coup je me suis inscrite;-
+601;2523.155;spk2;-;mais rien quoi j'ai rien du;-
+602;2525.121;spk2;spk2 spk1;tout c'est juste;-
+602;2525.121;spk1;spk2 spk1;hm hm hm;-
+603;2526.339;spk2;-;pour aller voir euh;-
+603;2527.343;spk2;-;mais du coup les gens me;-
+604;2528.423;spk2;spk2 spk1;contactent par cet intermédiaire-là;-
+604;2528.423;spk1;spk2 spk1;d'accord ouais ouais ils vous;-
+604;2530.016;spk2;spk2 spk1;ils me retrouvent donc ils me demandent des nouvelles d'y a;-
+604;2530.016;spk2;spk2 spk1;-;pf
+604;2530.016;spk1;spk2 spk1;retrouvent et;-
+604;2530.016;spk1;spk2 spk1;-;rire
+604;2533.699;spk2;spk2 spk1;alors moi je suis déconnectée de;-
+604;2533.699;spk1;spk2 spk1;-;rire
+605;2535.651;spk2;-;de tout ça en plus de tout ce milieu de banlieue;-
+606;2538.495;spk2;spk2 spk1;quoi;-
+606;2538.495;spk1;spk2 spk1;ouais;-
+607;2538.997;spk2;-;la banlieue comme on peut entendre aujourd'hui à la à la télé des fois ça me fait un peu sourire;-
+607;2543.545;spk2;-;de mon temps euh bah ça existait déjà y a;-
+608;2546.221;spk2;spk2 spk1;vingt ans hein;-
+608;2546.221;spk1;spk2 spk1;ouais;-
+609;2547.716;spk2;-;bah peut-être pas en c'est peut-être multiplié aujourd'hui parce que y a plus de monde plus de;-
+609;2552.024;spk2;-;mais moi j'ai vécu;-
+610;2552.952;spk2;spk2 spk1;tout ça hein;-
+610;2552.952;spk1;spk2 spk1;hm hm;-
+611;2553.865;spk2;-;quand je le dis aux gens ici autour de moi on a l'impression que;-
+611;2557.731;spk2;-;que je raconte un peu des histoires;-
+611;2559.15;spk2;-;mais non moi dans la cité où je vivais c'était ça les filles n'avaient pas le droit d'avoir des amis à l'extérieur euh;-
+612;2563.871;spk1;-;ah oui;-
+613;2564.357;spk2;-;ah oui oui non mais j'ai vécu;-
+614;2565.692;spk2;spk2 spk1;des choses euh;-
+614;2565.692;spk1;spk2 spk1;ah ouais;-
+615;2566.309;spk2;-;qui s- qui se vit encore;-
+616;2567.736;spk2;spk2 spk1;aujourd'hui hein;-
+616;2567.736;spk1;spk2 spk1;hm hm hm hm;-
+617;2568.862;spk2;-;on en parlait moins et puis euh;-
+618;2570.982;spk2;spk2 spk1;et puis y avait euh;-
+618;2570.982;spk1;spk2 spk1;oui c'est ça;-
+619;2571.898;spk2;-;les gens des cités et les gens euh;-
+619;2573.968;spk2;-;des des pavillons on nous disait euh;-
+620;2575.463;spk1;-;d'ac-;-
+621;2575.992;spk2;-;on se mélangeait pas à l'école on se mélangeait pas hein euh;-
+622;2578.881;spk2;spk2 spk1;donc bon mais;-
+622;2578.881;spk2;spk2 spk1;-;i
+622;2578.881;spk1;spk2 spk1;-;rire
+623;2582.487;spk2;-;enfin voilà;-
+624;2583.116;spk2;spk2 spk1;c'est euh;-
+624;2583.116;spk1;spk2 spk1;ouais;-
+625;2584.727;spk2;-;donc euh faut dire quoi sur le le c-;-
+625;2587.232;spk2;-;le le la ville euh;-
+625;2588.944;spk2;-;non de Fleury de la ville d'Orléans euh je sais;-
+626;2591.737;spk2;spk2 spk1;pas sur le;-
+626;2591.737;spk1;spk2 spk1;euh;-
+627;2592.708;spk1;-;oui non je sais pas qu'est-ce que;-
+627;2594.458;spk1;-;j'ai pas suivi;-
+627;2597.275;spk1;-;donc euh;-
+627;2601.323;spk1;-;bah comme vous venez juste d'arriver dans ce quartier c'est que vrai que peut-être vous connaissez pas;-
+628;2607.265;spk1;-;vous vous vous utilisez pas les commerces les les choses d'ici ou ?;-
+629;2611.284;spk2;-;bah en fait si parce que j'ai travaillé s- à Fleury-les-Aubrais pendant plus de dix ans;-
+630;2615.375;spk2;spk2 spk1;donc euh la ville de Fleury je la connais bien;-
+630;2615.375;spk1;spk2 spk1;d'accord donc vous connaissez quand même euh ouais;-
+631;2618.385;spk2;-;euh les commerçants bah je trouve que;-
+631;2621.298;spk2;-;alors ici à Fleury je trouve qu'on est bien;-
+631;2624.332;spk2;-;bien situé parce que bah y a Leclerc à côté;-
+632;2627.005;spk2;spk2 spk1;euh;-
+632;2627.005;spk1;spk2 spk1;d'accord;-
+633;2627.995;spk2;-;notre petit supermarché là-bas;-
+633;2630.139;spk2;-;chose que moi à Meung-Sur-Loire je connaissais pas il fallait euh;-
+633;2632.98;spk2;-;à chaque fois les courses bah ça prenait carrément une après-midi une matinée parce que;-
+633;2637.216;spk2;-;bah fallait parendre les la voiture aller à tel endroit;-
+634;2640.105;spk1;-;alors que là c'est plus simple;-
+635;2641.192;spk2;spk2 spk1;alors que là euh je;-
+635;2641.192;spk1;spk2 spk1;hm;-
+636;2642.48;spk2;-;en rentrant du travail on;-
+636;2643.529;spk2;-;fait un crochet et je trouve que je gagne;-
+637;2645.232;spk2;spk2 spk1;du temps déjà sur mes trajets;-
+637;2645.232;spk1;spk2 spk1;hm;-
+638;2646.899;spk2;-;de travail;-
+638;2648.13;spk2;-;et dans mon dans mon quotidien quoi;-
+639;2649.529;spk2;spk2 spk1;on gagne du temps;-
+639;2649.529;spk1;spk2 spk1;hm hm;-
+640;2650.185;spk2;-;quand on se rapproche de la ville;-
+640;2651.481;spk2;-;et puis euh pour sortir aussi par rapport à l'accès;-
+641;2654.766;spk2;spk2 spk1;loisir;-
+641;2654.766;spk1;spk2 spk1;ouais;-
+642;2656.065;spk1;-;et justement alors quel euh;-
+642;2658.085;spk1;-;qu'est-ce que vous appréciez comme euh;-
+643;2661.273;spk1;-;dire bah qu'est-ce que vous faites en dehors du travail;-
+644;2663.006;spk1;spk1 spk2;comme type de;-
+644;2663.006;spk1;spk1 spk2;-;rire
+644;2663.006;spk2;spk1 spk2;alors je fais pas de sport;-
+644;2665.148;spk1;spk1 spk2;-;rire
+644;2665.148;spk2;spk1 spk2;j'en ai jamais fait j'ai jamais aimé dès mon plus ze- plus jeune âge d'ailleurs;-
+644;2668.879;spk1;spk1 spk2;-;rire
+644;2668.879;spk2;spk1 spk2;je me suis pas soignée là-dessus;-
+644;2671.24;spk1;spk1 spk2;-;rire
+644;2671.24;spk2;spk1 spk2;non non c'est euh;-
+645;2672.807;spk2;-;pour moi c'est franchement;-
+646;2674.326;spk2;spk2 spk1;c'est bien pour les autres hein je trouve que c'est courageux mais moi non;-
+646;2674.326;spk1;spk2 spk1;bah chacun son truc hein hm voilà;-
+646;2674.326;spk1;spk2 spk1;-;rire
+646;2679.09;spk2;spk2 spk1;non se faire tant d'efforts pour euh;-
+646;2679.09;spk1;spk2 spk1;-;rire
+646;2681.787;spk2;spk2 spk1;pour;-
+646;2681.787;spk2;spk2 spk1;-;pf
+646;2681.787;spk1;spk2 spk1;pour quoi;-
+646;2681.787;spk1;spk2 spk1;-;rire
+647;2684.279;spk2;-;donc non j'en fais pas puis alors même à la télé ça m'intéresse même pas;-
+648;2687.176;spk2;spk2 spk1;non c'est vraiment pas le truc que je regarde;-
+648;2687.176;spk1;spk2 spk1;oui hm ouais;-
+649;2689.272;spk2;-;on a beau m'expliquer les règles puis je fais aucun effort;-
+650;2692.041;spk1;-;ouais;-
+651;2692.346;spk2;-;pour comprendre en plus donc euh;-
+651;2694.618;spk2;-;euh par contre euh ce que j'apprécie le fait d'être dans l'&agglo c'est;-
+651;2699.671;spk2;-;euh oh c'est plus facile de sortir ou de se dire ah bah tiens euh;-
+651;2703.57;spk2;-;tiens y a un truc pas mal là euh;-
+651;2705.907;spk2;-;par exemple à la Passerelle là à Fleury y a des;-
+652;2708.893;spk2;spk2 spk1;y a des s-;-
+652;2708.893;spk1;spk2 spk1;c'est c'est quoi la Passerelle ?;-
+652;2709.98;spk2;spk2 spk1;c'est un grand centre oui;-
+652;2709.98;spk1;spk2 spk1;-;tx
+653;2711.806;spk2;-;c'est une salle une grande salle un centre de;-
+653;2714.336;spk2;-;boh si on appelle ça culturel mais en fait c'est une grande salle de spectacle;-
+653;2718.115;spk2;-;et euh Fleury par rapport à;-
+653;2720.692;spk2;-;aux spectacles ils sont y a beaucoup de nouveaux spectacles de jeunes talents;-
+654;2724.476;spk2;spk2 spk1;euh;-
+654;2724.476;spk1;spk2 spk1;d'accord;-
+655;2725.298;spk2;-;ouais et c'est je trouve ça euh;-
+655;2727.899;spk2;-;bah intéressant euh;-
+655;2729.418;spk2;-;ou des chanteuses qui ont pas encore forcément percé;-
+656;2731.877;spk2;spk2 spk1;euh y a des c-;-
+656;2731.877;spk1;spk2 spk1;d'accord d'accord;-
+657;2733.221;spk2;-;c'est une petite salle en plus donc c'est un peu intime moi;-
+658;2735.99;spk2;spk2 spk1;je trouve ça;-
+658;2735.99;spk1;spk2 spk1;hm hm hm;-
+659;2736.577;spk2;-;vraiment bien ce qu'ils proposent;-
+660;2738.086;spk2;spk2 spk1;ça peut-être aussi des;-
+660;2738.086;spk2;spk2 spk1;-;pi
+660;2738.086;spk1;spk2 spk1;donc c'est des concerts des comme des d'accord;-
+661;2743.908;spk2;-;c'est euh y a eu un peu de cirque là y a pas longtemps y a y avait aussi;-
+662;2748.817;spk1;-;moi j'en n'ai jamais entendu parler en fait;-
+663;2750.048;spk2;spk2 spk1;ah ouais la Passerelle à Fleury mais vraiment;-
+663;2750.048;spk1;spk2 spk1;ouais non;-
+664;2751.965;spk2;-;c'est franchement euh;-
+664;2753.346;spk2;-;ils ont une programmation qui est intéressante hein;-
+665;2756.457;spk1;-;donc de jeunes talents de;-
+666;2757.928;spk1;spk1 spk2;ouais de de petits groupes;-
+666;2757.928;spk2;spk1 spk2;ouais de ouais là y avait là dernièrement y avait euh;-
+667;2761.635;spk2;-;du slam;-
+668;2762.709;spk2;spk2 spk1;enfin bon après;-
+668;2762.709;spk1;spk2 spk1;d'accord;-
+669;2763.462;spk2;-;des groupes un peu de reggae enfin c'est des jeunes;-
+670;2765.254;spk2;spk2 spk1;quoi qui;-
+670;2765.254;spk1;spk2 spk1;ouais;-
+671;2766.351;spk2;-;qui viennent s'exprimer;-
+672;2767.668;spk1;-;hm hm hm;-
+673;2768.462;spk2;-;moi je trouve ça toujours un peu intéressant;-
+673;2770.048;spk2;-;bon je regarde un peu le contenu je vais pas non plus voir;-
+674;2772.021;spk2;spk2 spk1;n'importe quoi non plus;-
+674;2772.021;spk1;spk2 spk1;oui oui oui oui ouais;-
+675;2773.644;spk2;-;mais ouais non j'aime bien le cinéma aussi;-
+676;2777.158;spk2;spk2 spk1;mais euh ouais;-
+676;2777.158;spk1;spk2 spk1;cinéma ouais;-
+677;2779.062;spk2;-;bon le cinéma euh moi;-
+677;2779.062;-;spk2;-;pf
+677;2780.942;spk2;-;c'est limité parce que j'aime pas les films euh américains;-
+678;2784.264;spk2;spk2 spk1;ça;-
+678;2784.264;spk1;spk2 spk1;hm hm;-
+679;2784.633;spk2;-;c'est pas mon truc les comédies américaines alors là;-
+680;2787.346;spk1;-;pire que tout;-
+681;2788.622;spk1;spk1 spk2;-;rire
+681;2788.622;spk2;spk1 spk2;non franchement;-
+682;2789.917;spk2;-;je vois pas l'intérêt alors Marine elle adore ça;-
+682;2792.134;spk2;-;je fais beaucoup d'efforts;-
+683;2793.345;spk2;spk2 spk1;franchement;-
+683;2793.345;spk1;spk2 spk1;-;rire
+684;2795.168;spk2;-;parce qu'elle parle sans arrêt de ces acteurs américains là euh qui euh;-
+684;2799.5;spk2;-;av- dont elle est fan alors moi à chaque fois je lui dis attends attends;-
+685;2802.678;spk2;spk2 spk1;elle dit j'arrête pas de te le dire oui non mais;-
+685;2802.678;spk1;spk2 spk1;je les confonds tous;-
+685;2802.678;spk1;spk2 spk1;-;rire
+685;2805.904;spk2;spk2 spk1;si tu veux j'ai pas que ça à penser elle me dit oui mais tu m'écoutes pas je lui dis si mais franchement avec tous les efforts du monde;-
+685;2805.904;spk1;spk2 spk1;-;rire
+685;2811.245;spk2;spk2 spk1;franchement bah ça m'intéresse pas;-
+685;2811.245;spk1;spk2 spk1;-;rire
+686;2814.423;spk2;-;alors je fais quand même des efforts;-
+687;2815.973;spk2;spk2 spk1;parce que je vais au cinéma avec elle voir ce genre de film;-
+687;2815.973;spk1;spk2 spk1;-;rire
+687;2818.755;spk2;spk2 spk1;parce que franchement y a des fois;-
+687;2818.755;spk1;spk2 spk1;m- oui;-
+687;2818.755;spk1;spk2 spk1;-;rire
+687;2821.717;spk2;spk2 spk1;bon ce qui la dérange c'est que je dors;-
+687;2821.717;spk1;spk2 spk1;-;rire
+687;2825.135;spk2;spk2 spk1;je lui dis écoute je suis là déjà tu peux pas tout me demander;-
+687;2825.135;spk1;spk2 spk1;-;rire
+687;2828.341;spk2;spk2 spk1;parce que franchement j'ai le droit à;-
+687;2828.341;spk1;spk2 spk1;-;rire
+687;2830.365;spk2;spk2 spk1;des fois je vois même pas le générique de début parce que je sais que ça va être de toute façon euh;-
+687;2830.365;spk1;spk2 spk1;-;rire
+687;2834.235;spk2;spk2 spk1;comme à chaque fois je lui dis;-
+687;2834.235;spk1;spk2 spk1;-;rire
+687;2835.346;spk2;spk2 spk1;tu en n'as pas marre ça se fini toujours pareil tes trucs;-
+687;2835.346;spk1;spk2 spk1;-;rire
+687;2838.161;spk2;spk2 spk1;et elle ça la fait un peu rêver;-
+687;2838.161;spk1;spk2 spk1;-;rire
+687;2839.687;spk2;spk2 spk1;mais bon c'est une grande rêveuse Marine;-
+687;2839.687;spk1;spk2 spk1;ouais;-
+687;2839.687;spk1;spk2 spk1;-;rire
+687;2842.305;spk2;spk2 spk1;ah oui oui c'est euh;-
+687;2842.305;spk1;spk2 spk1;-;rire
+687;2844.834;spk2;spk2 spk1;mais bon;-
+687;2844.834;spk1;spk2 spk1;-;rire
+687;2845.969;spk2;spk2 spk1;je dors au cinéma quand je vais avec Marine;-
+687;2845.969;spk1;spk2 spk1;donc vous dormez au cinéma;-
+687;2845.969;spk1;spk2 spk1;-;rire
+688;2849.916;spk2;-;franchement même quand ils étaient petits hein je les emmenais;-
+688;2852.517;spk2;-;voir les dessins animés et ça les faisait beaucoup rire;-
+689;2855.07;spk2;spk2 spk1;même les dessins animés moi j'accroche pas pas non non;-
+689;2855.07;spk1;spk2 spk1;-;rire
+689;2857.988;spk2;spk2 spk1;non moi je suis plutôt euh j'aime bien les;-
+689;2857.988;spk1;spk2 spk1;-;rire
+690;2860.641;spk2;-;tout ce qui est v- va refléter un petit peu les;-
+691;2863.959;spk2;spk2 spk1;la vie quoi ouais ouais ouais;-
+691;2863.959;spk1;spk2 spk1;la vie des gens et ouais hm hm hm;-
+692;2866.537;spk2;-;ouais ouais;-
+692;2867.358;spk2;-;même si euh à des à à à la fin je me dis bon on a pas vraiment appris des choses;-
+693;2871.978;spk2;spk2 spk1;hein;-
+693;2871.978;spk1;spk2 spk1;ouais;-
+694;2872.264;spk1;-;hm hm hm;-
+695;2872.974;spk2;-;mais je sais pas je trouve ça;-
+696;2875.127;spk2;spk2 spk1;ça m'intéresse de voir un peu le;-
+696;2875.127;spk1;spk2 spk1;ouais ouais ouais ouais ouais;-
+697;2878.946;spk2;-;et puis euh;-
+698;2880.547;spk1;-;et théâtre au à Orléans ou des;-
+699;2883.34;spk2;spk2 spk1;alors théâtre j'y vais peu;-
+699;2883.34;spk1;spk2 spk1;non hm;-
+700;2884.883;spk2;-;euh on y va euh ça nous arrive quand même d'aller plutôt sur Paris;-
+701;2888.734;spk1;-;d'accord;-
+702;2889.412;spk2;-;ouais ouais ouais;-
+703;2890.474;spk1;-;vous faites euh quelques fois justement la navette;-
+703;2892.787;spk1;-;pour euh pour un spectacle;-
+704;2893.818;spk1;spk1 spk2;ou pour euh d'accord;-
+704;2893.818;spk2;spk1 spk2;ouais ouais;-
+704;2894.974;spk1;spk1 spk2;pour une journée à Paris ou ouais;-
+704;2894.974;spk2;spk1 spk2;ouais ouais ouais ouais ouais;-
+705;2897.287;spk2;-;pour aller au musée alors ça Marine elle adore visiter les;-
+705;2900.561;spk2;-;plutôt avec Marine que je fais ça les musées;-
+706;2902.441;spk1;-;ouais;-
+707;2902.903;spk2;-;on prend une journée on part le matin;-
+708;2904.211;spk2;spk2 spk1;en train euh;-
+708;2904.211;spk1;spk2 spk1;d'accord d'accord;-
+709;2905.456;spk2;-;on visite euh;-
+710;2907.66;spk2;spk2 spk1;là on est proche de ouais proche;-
+710;2907.66;spk1;spk2 spk1;bah ça c'est c'est vrai que c'est un avantage euh d'Orléans hein c'est euh;-
+711;2911.297;spk2;-;mais bon euh le train ou moi la voiture je suis beaucoup voiture;-
+712;2914.215;spk1;-;d'accord;-
+713;2914.936;spk2;-;non moi je suis;-
+714;2915.354;spk2;spk2 spk1;pas transports du tout;-
+714;2915.354;spk1;spk2 spk1;même pour aller à Paris ?;-
+714;2916.768;spk2;spk2 spk1;bah comme je suis de là-bas enfin bon pour moi c'est pas un problème donc;-
+714;2916.768;spk1;spk2 spk1;hm ouais ça vous fait pas peur d'y aller;-
+714;2916.768;spk1;spk2 spk1;-;rire
+715;2921.004;spk2;-;euh c'est vrai que quand ils ont envie d'aller à Paris euh;-
+716;2924.038;spk2;spk2 spk1;la voiture oui nous;-
+716;2924.038;spk1;spk2 spk1;vous prenez la voiture et;-
+717;2925.327;spk2;-;on est allé une fois en train et c'était;-
+717;2927.216;spk2;-;euh;-
+717;2928.384;spk2;-;on est allé au Grand Palais hein;-
+718;2929.985;spk1;-;oui;-
+719;2930.25;spk2;-;y a pas si longtemps que ça;-
+719;2932.616;spk2;-;et euh;-
+719;2933.818;spk2;-;je lui ai dit on va y aller en train oh elle me dit en train;-
+720;2936.371;spk2;spk2 spk1;c'est vrai que c'est drôle;-
+720;2936.371;spk1;spk2 spk1;ah ouais ouais ouais;-
+721;2937.962;spk2;-;je lui dis oh bah oui on va y aller en train parce que ça va être compliqué;-
+721;2940.371;spk2;-;pour se garer et tout et franchement enfin;-
+721;2942.78;spk2;-;au moment de rentrer j'ai dit oh là là la prochaine fois on reprend la voiture hein;-
+722;2945.835;spk2;spk2 spk1;j'ai du mal quand même;-
+722;2945.835;spk1;spk2 spk1;mais même pour aller;-
+723;2947.568;spk1;-;dans Paris c'est pas ?;-
+724;2949.497;spk2;-;ah non ça me gêne pas moi;-
+725;2950.704;spk1;-;ah ouais;-
+726;2951.166;spk2;-;ouais non;-
+727;2951.94;spk1;-;et en temps;-
+729;2953.873;spk2;spk2 spk1;bah c'est pareil hein franchement ouais;-
+729;2953.873;spk1;spk2 spk1;c'est pareil ouais;-
+730;2956.161;spk2;-;je me dis c'est tellement plus simple d'avoir;-
+731;2957.786;spk2;spk2 spk1;sa voiture et ouais voilà ouais;-
+731;2957.786;spk1;spk2 spk1;on est plus libre et ouais ouais ouais;-
+732;2960.156;spk2;-;de pas être tributaire des horaires de train;-
+733;2962.156;spk2;spk2 spk1;euh;-
+733;2962.156;spk2;spk2 spk1;-;pf
+733;2962.156;spk1;spk2 spk1;hm hm;-
+733;2963.098;spk2;spk2 spk1;puis mais quand je le dis;-
+733;2963.098;spk1;spk2 spk1;alors que moi aller à Paris en voiture ce serait;-
+733;2963.098;spk1;spk2 spk1;-;rire
+734;2966.191;spk2;-;autour de moi les gens ils me disent mais;-
+734;2967.382;spk2;-;c'est pas vrai tu vas pas à Paris en train euh en voiture;-
+735;2969.43;spk2;spk2 spk1;je dis;-
+735;2969.43;spk1;spk2 spk1;ouais;-
+736;2969.747;spk2;-;bah si hein;-
+737;2970.954;spk1;spk1 spk2;mais y a si y en a y en a pas mal qui;-
+737;2970.954;spk2;spk1 spk2;ouais ouais;-
+738;2972.485;spk1;-;le font hein mais euh;-
+739;2973.579;spk2;-;ouais ouais non moi c'est pas;-
+739;2975.074;spk2;-;c'est j- j- enfin j- pour moi quand on me dit euh j'ai une copine là qui qui é- qui habite dans le coin;-
+739;2980.151;spk2;-;et qui travaille sur Paris;-
+740;2982.199;spk2;spk2 spk1;euh ça m'arrive;-
+740;2982.199;spk1;spk2 spk1;hm;-
+741;2983.232;spk2;-;d'aller la rejoindre dans un;-
+741;2985.016;spk2;-;bah c'est pour aller manger avec elle ou un truc comme ça;-
+741;2987.372;spk2;-;et des fois j- j- je mets;-
+741;2989.228;spk2;-;pas longtemps à aller à Paris;-
+741;2990.521;spk2;-;mais je mets euh je sais pas trois quart d'heure à trouver;-
+742;2992.184;spk2;spk2 spk1;une place pour me garer donc ils me disent tu en as pas marre;-
+742;2992.184;spk1;spk2 spk1;eh oui c'est ça c'est ça;-
+742;2994.161;spk2;spk2 spk1;bah non je dis que je sais que ça fait partie de la la vie à Paris donc non non non;-
+742;2994.161;spk1;spk2 spk1;-;rire
+743;2999.358;spk2;-;non mais c'est parce que si je veux partir du restaurant à onze heures à minuit ou à une heure du matin;-
+744;3004.387;spk2;spk2 spk1;j'ai ma voiture je me pose pas la question de euh;-
+744;3004.387;spk1;spk2 spk1;ah oui oui hm c'est sûr c'est sûr;-
+744;3007.921;spk2;spk2 spk1;donc non c'est je préfère;-
+744;3007.921;spk1;spk2 spk1;c'est sûr hm hm;-
+745;3010.714;spk2;-;je préfère être autonome moi l'autonomie c'est important et;-
+745;3013.94;spk2;-;quand je suis tributaire comme ça d'horaires ou de trains euh;-
+746;3017.118;spk2;spk2 spk1;c'est pas trop mon truc;-
+746;3017.118;spk1;spk2 spk1;ouais ouais ouais ouais;-
+746;3018.878;spk2;spk2 spk1;non puis ça nous arrive d'aller euh;-
+746;3018.878;spk1;spk2 spk1;puis c'est voilà c'est une habitude d'accord;-
+746;3021.276;spk2;spk2 spk1;au théâtre à Paris et;-
+746;3021.276;spk1;spk2 spk1;passer une journée à Paris;-
+747;3023.773;spk2;-;et d'aller voir aussi des surtout des;-
+747;3025.69;spk2;-;des trucs pas connus quoi;-
+748;3026.993;spk1;-;d'accord;-
+749;3027.406;spk2;-;donc euh moi je suis pas mal sur internet à farfouiller;-
+750;3029.892;spk2;spk2 spk1;sur ce qui peut être intéressant euh;-
+750;3029.892;spk1;spk2 spk1;qu'est-ce qui se pa- qu'est-ce qui passe et ouais d'accord;-
+751;3032.781;spk2;-;et euh;-
+751;3033.795;spk2;-;voilà bah tiens ça on en parle pas c'est une petite salle mais y a des fois où on t- tombe sur des spectacles vachement bien;-
+751;3039.064;spk2;-;y a des fois on se voit d'autres trucs euh;-
+752;3040.896;spk2;spk2 spk1;franchement euh on a envie de partir mais on se dit oh ça se fait pas trop euh;-
+752;3040.896;spk1;spk2 spk1;moins bien;-
+752;3040.896;spk1;spk2 spk1;-;rire
+752;3044.771;spk2;spk2 spk1;bah voilà;-
+752;3044.771;spk2;spk2 spk1;-;pi
+752;3044.771;spk1;spk2 spk1;on est que cinq dans la salle;-
+752;3044.771;spk1;spk2 spk1;-;rire
+752;3047.781;spk2;spk2 spk1;les caves un jour on s'est dit ouh là;-
+752;3047.781;spk1;spk2 spk1;-;rire
+752;3049.517;spk2;spk2 spk1;on est où là mais c'est pas grave mais alors on s- c'était un super truc là c- on avait bien rigolé;-
+752;3049.517;spk1;spk2 spk1;-;rire
+753;3054.161;spk2;-;et euh voilà quoi;-
+754;3056.266;spk1;-;ouais hm hm hm;-
+754;3057.387;spk1;-;bah c'est vrai que c'est l'avantage d'Orléans quoi;-
+755;3059.323;spk2;-;ouais;-
+756;3060.541;spk1;-;d'être euh pas trop loin de euh de la ville;-
+756;3064.279;spk1;-;de Paris;-
+757;3065.089;spk2;-;ouais;-
+759;3066.733;spk1;-;et la télé vous euh;-
+760;3069.574;spk1;spk1 spk2;vous la regardez euh ouais;-
+760;3069.574;spk2;spk1 spk2;bah moi euh non je suis pas très euh;-
+761;3072.17;spk1;-;pas très télé;-
+762;3072.758;spk2;-;non pas très télé;-
+762;3074.387;spk2;-;euh je suis plutôt euh télé euh bah alors le soir déjà la journée je la regarde pas;-
+762;3079.512;spk2;-;ou euh;-
+762;3080.743;spk2;-;ça va être les infos le midi;-
+763;3081.986;spk2;spk2 spk1;par exemple;-
+763;3081.986;spk1;spk2 spk1;d'accord ouais;-
+764; 3083.152;spk2;-;et euh;-
+764;3084.107;spk2;-;le soir moi je suis plutôt euh j'aime bien regarder Le Grand Journal Canal Plus;-
+765;3087.291;spk2;spk2 spk1;j'aime bien regarder ça dans le salon;-
+765;3087.291;spk1;spk2 spk1;ouais;-
+766;3089.801;spk2;-;euh parce que mais;-
+766;3091.513;spk2;-;c'est tout nouveau hein parce que depuis que je suis ici en fait avant;-
+766;3095.124;spk2;-;euh;-
+766;3095.953;spk2;-;bah toute la période où j'ai eu mes enfants on n'a jamais mangé devant la télé alors ça;-
+767;3099.961;spk2;spk2 spk1;j'y tenais c'était vraiment;-
+767;3099.961;spk1;spk2 spk1;hm hm hm;-
+768;3101.889;spk2;-;c'était le seul moment où on était ensemble tous les trois;-
+768;3104.899;spk2;-;et le seul moment euh seul moy- moyen qu'on avait de;-
+768;3108.774;spk2;-;déverser un petit peu euh ce qu'on avait alors des fois non des fois c'était plutôt déconnant et euh;-
+768;3113.731;spk2;-;mais euh non la télé euh vraiment et puis ça alors là ils ont;-
+768;3113.731;-;spk2;-;bb
+768;3117.726;spk2;-;ça leur a jamais posé de problème;-
+768;3120.231;spk2;-;mais euh;-
+768;3121.149;spk2;-;depuis que je suis ici les choses ont un peu changé;-
+768;3123.221;spk2;-;c'est que bah maintenant bah nous on est deux;-
+768;3125.697;spk2;-;on mange plutôt là;-
+769;3126.46;spk2;spk2 spk1;à regarder Le Grand Journal;-
+769;3126.46;spk1;spk2 spk1;ouais hm hm hm hm hm;-
+770;3128.63;-;spk2;-;bb
+770;3129.26;spk2;-;par contre euh;-
+770;3129.26;-;spk2;-;pf
+770;3131.548;spk2;-;avec mes cours je bosse euh souvent en soirée;-
+771;3133.842;spk1;-;d'accord ouais;-
+772;3134.827;spk1;spk1 spk2;oui donc euh plus de soirées télé;-
+772;3134.827;spk2;spk1 spk2;donc euh pour l'instant c'est un peu faussé;-
+773;3136.971;spk2;-;et puis moi tout ce qui est;-
+774;3138.298;spk2;spk2 spk1;c'est beaucoup de ouais feuilletons américains des;-
+774;3138.298;spk1;spk2 spk1;variété tout ça ouais ouais hm;-
+775;3142.24;spk2;-;tout ce qui est comment dire;-
+775;3144.5;spk2;-;les NCIS et les je sais quoi là euh;-
+776;3147.683;spk2;spk2 spk1;trucs policiers là alors là;-
+776;3147.683;spk1;spk2 spk1;d'accord;-
+776;3149.467;spk2;spk2 spk1;ah non franchement euh;-
+776;3149.467;spk1;spk2 spk1;-;rire
+776;3151.491;spk2;spk2 spk1;c'est vraiment pas mon truc ouais bah avec ma compagne;-
+776;3151.491;spk1;spk2 spk1;ouais faut faire du tri quoi hm;-
+776;3154.717;spk2;spk2 spk1;c'est pas évident parce que elle;-
+776;3154.717;spk2;spk2 spk1;-;pi
+776;3154.717;spk1;spk2 spk1;hm ah;-
+776;3154.717;spk1;spk2 spk1;-;rire
+776;3154.717;spk1;spk2 spk1;-;rire
+776;3160.034;spk2;spk2 spk1;voilà donc c'est c'est elle qui a;-
+776;3160.034;spk1;spk2 spk1;-;rire
+777;3162.01;spk2;-;on n'a pas du tout euh bah elle elle avait plutôt une vie euh bah quand on est sans enfants euh;-
+777;3166.731;spk2;-;un peu plus comment dire euh m- moins boosté par la vie familiale;-
+778;3171.423;spk1;-;ouais hm hm;-
+779;3172.51;spk2;-;et puis bah voilà tout donner aux enfants le soir pour les devoirs pour ceci pour cela;-
+779;3177.4;spk2;-;donc on a un peu sa vie;-
+780;3178.468;spk2;spk2 spk1;autrement quand on est seul donc euh là c'est pas;-
+780;3178.468;spk1;spk2 spk1;hm hm hm hm ouais ouais ouais ouais ouais ouais;-
+780;3182.117;spk2;spk2 spk1;donc voilà non moi la télé mais;-
+780;3182.117;spk1;spk2 spk1;d'accord;-
+780;3182.117;spk1;spk2 spk1;-;tx
+781;3184.728;spk2;-;si si je la regarde;-
+781;3185.636;spk2;-;ça va être plutôt des reportages euh y a pas longtemps y avait sur euh;-
+781;3190.035;spk2;-;les enfants qui ont été violentés euh;-
+782;3192.732;spk2;spk2 spk1;moi je sors jamais hein donc euh ah non c'est vrai c'est;-
+782;3192.732;spk1;spk2 spk1;ouais;-
+782;3192.732;spk1;spk2 spk1;-;rire
+783;3196.03;spk2;-;parce que je me dis euh les témoignages c'est important pour moi c'est important de de sen- de de voir un peu;-
+783;3201.948;spk2;-;ce que les gens ont vécu comment ils s'en sont sortis toujours euh sur quoi ils se sont appuyés euh;-
+783;3206.861;spk2;-;pour moi puis sa reflète un peu;-
+783;3209.251;spk2;-;comment la vie d'aujourd'hui;-
+784;3210.939;spk2;spk2 spk1;de plein de gens euh;-
+784;3210.939;spk1;spk2 spk1;oui oui oui;-
+785;3212.194;spk2;-;être sensibilisé un peu par tout ce qui nous entoure aussi et;-
+785;3215.564;spk2;-;j'ai sensibilisé aussi mes enfants très jeunes à ça aux violences qui pouvaient leur;-
+785;3220.04;spk2;-;qu'ils pouvaient subir à un moment donné par des rencontres euh que ce soit familiales ou euh;-
+785;3224.901;spk2;-;je trouve que c'est important quoi que les qu'on parle de;-
+786;3227.358;spk2;spk2 spk1;tout ça quoi que;-
+786;3227.358;spk1;spk2 spk1;hm hm hm hm hm;-
+787;3228.565;spk2;-;ce soit pas tabou et euh;-
+787;3230.127;spk2;-;qu'un jour euh j- ce que j'aurais jamais supporté c'est d'apprendre qu'un jour euh;-
+787;3234.29;spk2;-;mon enfant a vécu quelque chose;-
+788;3235.318;spk2;spk2 spk1;et que je l'ai pas su;-
+788;3235.318;spk1;spk2 spk1;hm hm hm;-
+789;3236.277;spk2;-;parce que j'étais pas là pour l'aider;-
+790;3238.203;spk2;spk2 spk1;et euh;-
+790;3238.203;spk1;spk2 spk1;hm hm hm;-
+790;3238.915;spk2;spk2 spk1;ah ça ça aurait été insupportable pour moi hein;-
+790;3238.915;spk1;spk2 spk1;hm hm hm hm hm hm;-
+790;3241.179;spk2;spk2 spk1;et ils ils l'ont su très tôt hein que c'était important de bon;-
+790;3241.179;spk1;spk2 spk1;hm ouais ouais ouais ouais ouais ouais ouais;-
+790;3245.049;spk2;spk2 spk1;donc bah tous ces reportages;-
+790;3245.049;spk1;spk2 spk1;de partager ces choses;-
+791;3247.26;spk2;-;alors Marine ça la gonfle royalement elle me dit mais arrête moi tes trucs là;-
+792;3250.439;spk2;spk2 spk1;ce sont y pas de mal mais bon;-
+792;3250.439;spk2;spk2 spk1;-;sonnerie téléphone
+792;3250.439;spk1;spk2 spk1;dé- déjà tu y es toute la journée euh;-
+792;3250.439;spk1;spk2 spk1;-;rire
+792;3255.372;spk2;spk2 spk1;c'est le portable;-
+792;3255.372;spk2;spk2 spk1;-;sonnerie téléphone
+792;3255.372;spk1;spk2 spk1;ah;-
+793;3256.891;spk1;-;ben allez-y hein;-
+793;3256.891;-;spk1;-;sonnerie téléphone
+794;3258.502;spk2;spk2 spk1;ouh là là;-
+794;3258.502;spk2;spk2 spk1;-;sonnerie téléphone
+794;3258.502;spk1;spk2 spk1;bah vous vous l'enlevez;-
+795;3260.141;-;spk1;-;rire
+795;3260.141;-;spk1;-;b
+795;3263.127;spk1;-;bientôt terminé;-
+796;3266.944;spk1;-;euh hm;-
+796;3268.848;spk1;-;et hm;-
+797;3270.68;spk1;-;et au niveau toujours de la ville d'Orléans qu'est-ce que ou ouais de d'Orléans;-
+797;3274.363;spk1;-;qu'est-ce que qu'est-ce que il vous plaît ou qu'est-ce qui vous déplaît dans la ville ?;-
+797;3278.094;spk1;-;au niveau par exemple que ce soit les aménagements euh le tram les;-
+797;3282.046;spk1;-;les bords de Loire ou que ce soit les;-
+797;3284.455;spk1;-;les manifestations de type euh les fêtes de Loire les fêtes de Jeanne d'Arc;-
+798;3288.546;spk2;-;bah ce qu'il me plaît c'est que euh je trouve que la ville depuis quelques années a;-
+799;3292.012;spk2;spk2 spk1;un autre aspect quand même elle est;-
+799;3292.012;spk1;spk2 spk1;a bien changé oui;-
+800;3293.49;spk2;-;beaucoup plus accueillante;-
+800;3295.142;spk2;-;euh;-
+801;3295.795;spk1;-;moi je l'ai pas connue sous son aspect euh;-
+802;3297.479;spk1;spk1 spk2;non-accueillant;-
+802;3297.479;spk2;spk1 spk2;ah ouais;-
+803;3299.046;-;spk1;-;rire
+804;3299.358;spk2;-;moi je dis accueillant hein peut-être que d'autres gens la trouve pas accueillant comme ville mais je trouve que;-
+805;3303.714;spk2;spk2 spk1;bah c'est ce que je pense c'est ouais c'est c'est propre;-
+805;3303.714;spk1;spk2 spk1;bah si aménagée quand même et ouais hm;-
+806;3307.18;spk2;-;c'est euh;-
+806;3308.651;spk2;-;c'est fait avec goût;-
+807;3309.521;spk2;spk2 spk1;je trouve;-
+807;3309.521;spk1;spk2 spk1;ouais;-
+808;3310.29;spk2;-;voilà donc euh;-
+808;3312.338;spk2;-;au niveau de l'aménagement on peut en dire que du bien maintenant euh euh;-
+808;3316.886;spk2;-;ça c'est au niveau personnel mais euh si je me mets sur un versant professionnel;-
+809;3321.146;spk1;-;oui;-
+810;3321.68;spk1;spk1 spk2;moi qui accompagne les personnes euh en fauteuil roulant par exemple bah c'est euh;-
+810;3321.68;spk2;spk1 spk2;oui hm hm;-
+810;3325.988;spk1;spk1 spk2;c'est pas pensé pour ces gens-là;-
+810;3325.988;spk2;spk1 spk2;y a peu d'amé- ah ouais;-
+811;3328.012;spk2;-;c'est-à-dire que les routes pavées c'est bien joli c'est super beau;-
+811;3331.436;spk2;-;ça rappelle euh;-
+812;3332.409;spk1;-;oui;-
+813;3332.811;spk2;-;sauf que quand on est en fauteuil roulant et qu'on doit pousser son fauteuil roulant sur des pavés;-
+814;3336.974;spk2;spk2 spk1;c'est une galère pas possible;-
+814;3336.974;spk1;spk2 spk1;hm hm hm hm hm hm;-
+814;3338.83;spk2;spk2 spk1;enfin voyez c'est des petites choses que j'ai un oeil un peu plus;-
+814;3338.83;spk1;spk2 spk1;ouais ouais ouais ouais ouais ouais ouais ouais;-
+815;3342.152;spk2;-;mais sinon pour moi personnellement euh ch- je trouve ça super euh;-
+816;3346.051;spk2;spk2 spk1;super agréable quoi;-
+816;3346.051;spk1;spk2 spk1;ouais ouais;-
+817;3347.618;spk2;-;mais y a plein de petites choses qui sont pas forcément pensées;-
+818;3350.525;spk2;spk2 spk1;pour tout le monde quoi ouais ouais ouais;-
+818;3350.525;spk1;spk2 spk1;pour tout le monde hm hm hm hm;-
+819;3352.791;spk2;-;mais bon sinon euh le tram euh je trouve ça nous on a le tram pas très très loin là;-
+820;3357.436;spk2;spk2 spk1;Lamballe;-
+820;3357.436;spk1;spk2 spk1;oui j'ai vu j'ai les;-
+821;3358.811;spk2;-;je trouve ça très pratique;-
+822;3360.667;spk2;spk2 spk1;même si euh je l'utilise pas;-
+822;3360.667;spk2;spk2 spk1;-;rire
+822;3360.667;spk1;spk2 spk1;-;rire
+822;3363.797;spk2;spk2 spk1;je l'utilise très peu;-
+822;3363.797;spk1;spk2 spk1;-;rire
+823;3364.985;spk2;-;parce que franchement pour aller d'ici à la Source il faut une heure;-
+824;3368.187;spk1;-;oui;-
+825;3368.528;spk2;-;moi en vingt minutes vingt-cinq minutes;-
+826;3370.042;spk2;spk2 spk1;en voiture j'y suis donc euh;-
+826;3370.042;spk1;spk2 spk1;c'est ça c'est ça c'est ça;-
+827;3371.778;spk2;-;euh je l'utilise assez peu j'utilise beaucoup pour mon travail parce que j- j- j-;-
+827;3376.85;spk2;-;comment dire je j'accompagne un petit peu les gens sur euh;-
+827;3380.148;spk2;-;euh la réinsertion sociale;-
+828;3382.917;spk2;spk2 spk1;parce que j'accompagne quand même beaucoup de gens qui ont eu des accidents euh;-
+828;3382.917;spk1;spk2 spk1;ouais vous sortez avec eux en fait et d'accord;-
+828;3387.273;spk2;spk2 spk1;qui se sont retrouvés en fauteuil roulant à un moment de la v- de leur vie;-
+828;3387.273;spk1;spk2 spk1;hm oui;-
+829;3390.138;spk2;-;donc qui avaient une vie avant euh;-
+830;3392.186;spk2;spk2 spk1;normale debout et qui euh se retrouvent;-
+830;3392.186;spk1;spk2 spk1;ouais hm hm hm;-
+831;3394.295;spk2;-;en fauteuil qui ont passé plusieurs années;-
+831;3396.686;spk2;-;à être chez eux sans sortir et;-
+831;3398.595;spk2;-;plus ou moins en dépression donc moi j'essaye de les;-
+831;3401.263;spk2;-;ramener sur l'extérieur et euh ils s'appuient un peu sur moi;-
+831;3404.633;spk2;-;pour utiliser euh;-
+832;3405.222;spk1;-;hm hm hm hm hm;-
+833;3406.345;spk2;-;je les motive un peu à utiliser les transports en commun le tram est adapté hein euh;-
+834;3411.903;spk2;spk2 spk1;le tram le bus aussi qui a un quai pour les personnes en fauteuil;-
+834;3411.903;spk1;spk2 spk1;oui hm hm hm hm hm hm ouais;-
+835;3416.6;spk2;-;mais euh non je trouve qu'au niveau euh;-
+835;3419.67;spk2;-;euh;-
+835;3419.67;-;spk2;-;pf
+836;3425.768;spk1;-;puis va y avoir un autre tram;-
+837;3427.189;spk1;spk1 spk2;une autre ligne hm hm ouais;-
+837;3427.189;spk2;spk1 spk2;ouais moi je trouve que franchement euh;-
+838;3429.427;spk2;-;la ville avance même l'&agglo avance euh positivement;-
+839;3433.062;spk2;spk2 spk1;je trouve;-
+839;3433.062;spk1;spk2 spk1;ouais hm hm hm;-
+840;3434.124;spk2;-;après euh j- franchement l'aspect politique moi;-
+841;3437.836;spk2;spk2 spk1;-;bb
+841;3437.836;spk1;spk2 spk1;ouais hm hm hm hm;-
+842;3441.182;spk2;-;euh je trouve que c'est euh c'est juste euh;-
+842;3444.528;spk2;-;bien pensé parfois et euh;-
+842;3446.432;spk2;-;pas forcément approfondi sur d'autres;-
+843;3448.22;spk2;spk2 spk1;mais je vais pas voir si c'est la droite ou la gauche je rentre pas dans ces débats-là;-
+843;3448.22;spk1;spk2 spk1;hm hm hm hm oui oui oui hm hm hm hm;-
+844;3452.504;spk2;-;euh sinon tout ce qui est fêtes de Loire euh;-
+845;3455.352;spk1;-;oui vous y par- vous y allez ou;-
+846;3457.148;-;spk2;-;pf
+847;3458.193;spk2;spk2 spk1;fois;-
+847;3458.193;spk1;spk2 spk1;hm hm hm hm;-
+848;3458.944;spk2;-;quand j'en ressors c'est beaucoup de monde;-
+849;3460.532;spk1;-;hm;-
+850;3460.975;spk2;-;c'est sympathique hein euh;-
+850;3460.975;-;spk2;-;pf
+850;3464.393;spk2;-;je m'y retrouve pas trop dans ces trucs j'ai l'impression qu'y a un peu un décalage euh;-
+850;3468.965;spk2;-;franchement euh non mais;-
+850;3468.965;-;spk2;-;bb
+850;3472.272;spk2;-;quand y a eu la caravane de Loire là;-
+851;3474.479;spk2;spk2 spk1;aussi et puis;-
+851;3474.479;spk1;spk2 spk1;oui;-
+852;3475.085;spk2;-;les spectacles un peu farfelus avec euh;-
+853;3477.998;spk2;spk2 spk1;moi j'appelle ça farfelus mais;-
+853;3477.998;spk1;spk2 spk1;-;rire
+854;3479.469;spk2;-;mais y avait un peu des des spectacles de rue là;-
+855;3483.481;spk1;-;avec la caravane ?;-
+856;3484.616;spk1;spk1 spk2;ou euh;-
+856;3484.616;spk2;spk1 spk2;oui oui;-
+856;3485.425;spk1;spk1 spk2;ça ça c'est c- ça c'est l'été non c'est quand ça ? oui;-
+856;3485.425;spk2;spk1 spk2;des spectacles un peu oui c'est l'été ça;-
+856;3488.719;spk1;spk1 spk2;c'est è-;-
+856;3488.719;spk2;spk1 spk2;c'est euh non c'est septembre;-
+856;3490.479;spk1;spk1 spk2;oui qui se balade dans les différentes villes euh;-
+856;3490.479;spk2;spk1 spk2;ouais ouais ouais voilà hm hm;-
+857;3494.017;spk1;-;hm hm;-
+858;3494.599;spk1;spk1 spk2;j'ai pas vu j'y étais pas d'accord d'accord hm hm;-
+858;3494.599;spk2;spk1 spk2;voilà avec des un peu des troubadours des moi j'adhère pas trop à ce genre de choses ça me;-
+859;3499.748;spk2;-;je sais pas;-
+860;3501.363;spk2;spk2 spk1;je sais pas pourquoi;-
+860;3501.363;spk1;spk2 spk1;les déguisements ? les euh;-
+861;3502.664;spk1;-;ouais non;-
+862;3503.459;spk2;-;ouais je sais pas je trouve que;-
+862;3503.459;-;spk2;-;pf
+863;3506.517;spk1;-;ouais;-
+864;3506.906;spk2;-;franchement y a alors y a des fois y a;-
+864;3509.675;spk2;-;puis alors plus on est un peu euh;-
+865;3511.603;spk2;spk2 spk1;comment dire euh ?;-
+865;3511.603;spk1;spk2 spk1;critique non ?;-
+865;3513.146;spk2;spk2 spk1;ouais plus ils voient;-
+865;3513.146;spk1;spk2 spk1;ouais;-
+865;3514.019;spk2;spk2 spk1;que on n'adhère pas bah plus ils viennent nous titiller ils sont un peu dans la &provoc;-
+865;3514.019;spk1;spk2 spk1;ouais;-
+865;3514.019;spk1;spk2 spk1;-;rire
+865;3517.55;spk2;spk2 spk1;oh je leur dis bah amusez-vous ça si ça peut vous faire rire mais non;-
+865;3517.55;spk1;spk2 spk1;-;rire
+866;3521.689;spk2;-;franchement euh c-;-
+867;3523.304;spk2;spk2 spk1;-;pf
+867;3523.304;spk1;spk2 spk1;ouais hm hm hm hm;-
+867;3526.145;spk2;spk2 spk1;enfin même pas du tout d'ailleurs faut que;-
+867;3526.145;spk1;spk2 spk1;ouais;-
+868;3528.409;spk2;-;on soit en groupe on me dit bah allez;-
+869;3530.529;spk1;-;oui voilà que ce soit une occasion de voir;-
+870;3532.241;spk1;spk1 spk2;euh ouais;-
+870;3532.241;spk2;spk1 spk2;mais sinon;-
+871;3532.763;spk2;-;je suis toujours partante pour euh;-
+872;3534.289;spk2;-;j'ai des des amis qui aiment bien faire du du kay- du canoë et du;-
+873;3537.27;spk2;spk2 spk1;donc je fais du canoë;-
+873;3537.27;spk1;spk2 spk1;ouais hm hm hm;-
+874;3538.712;spk2;-;je fais aussi euh oh du bowling euh;-
+875;3541.337;spk2;spk2 spk1;je fais aussi du euh;-
+875;3541.337;spk1;spk2 spk1;ouais ouais ouais;-
+876;3543.121;spk2;-;du laser euh du laser;-
+876;3543.121;-;spk2;-;rire
+877;3547.929;spk2;spk2 spk1;non vous savez peut-être pas;-
+877;3547.929;spk1;spk2 spk1;non je sais pas;-
+877;3547.929;spk1;spk2 spk1;-;rire
+878;3550.774;spk2;spk2 spk1;c'est le truc des jeunes là qu'ils font;-
+878;3550.774;spk1;spk2 spk1;-;rire
+879;3552.562;spk2;-;alors ça c'est Marine qui m'a dit allez tu sais tu vas trop rigoler et tout;-
+879;3556.221;spk2;-;je lui dis bah là tu sais Marine c'est pas trop mon truc elle me dit mais si tu vas et en fait c'est vrai que;-
+880;3559.904;-;spk1;-;rire
+881;3560.486;spk2;-;c'est bien c'est euh;-
+882;3561.645;spk2;spk2 spk1;c'est un grand labyrinthe dans le noir ouais c'est des;-
+882;3561.645;spk1;spk2 spk1;c'est se tirer dessus ouais;-
+882;3564.895;spk2;spk2 spk1;du laser on se tire dessus avec le lazer et on accumule des points;-
+882;3564.895;spk1;spk2 spk1;ouais ouais ouais hm;-
+882;3568.073;spk2;spk2 spk1;enfin alors j'ai des a-;-
+882;3568.073;spk1;spk2 spk1;d'accord d'accord;-
+883;3569.387;spk2;-;alors moi j'ai des amis qui sont assez jeunes;-
+884;3571.467;spk1;-;hm;-
+885;3571.88;spk2;-;le plus jeune de mon ami a l'âge de mon fils;-
+886;3574.299;spk2;spk2 spk1;donc euh;-
+886;3574.299;spk1;spk2 spk1;d'accord;-
+887;3575.154;-;spk2;-;tx
+887;3576.337;spk2;-;et donc euh après j'en ai des qui ont trente ans et puis après j'en ai des plus vieux mais;-
+887;3580.183;spk2;-;c'est vrai que moi au niveau c'est pas l'âge qui fait euh l'amitié c'est euh;-
+887;3583.5;spk2;-;souvent des choses qui se passent comme ça et;-
+888;3585.668;spk2;spk2 spk1;et puis donc euh;-
+888;3585.668;spk1;spk2 spk1;oui oui oui;-
+889;3586.947;spk2;-;et donc euh bah avec les jeunes souvent;-
+890;3588.562;spk2;spk2 spk1;on se pose pas de question ils nous appellent et;-
+890;3588.562;spk1;spk2 spk1;ouais avec les jeunes voilà;-
+890;3588.562;spk1;spk2 spk1;-;rire
+891;3590.679;spk2;-;bon allez ce soir on va tu viens;-
+892;3592.457;spk2;spk2 spk1;moi je suis toujours partante je dis jamais non donc euh;-
+892;3592.457;spk1;spk2 spk1;-;rire
+893;3595.995;spk2;-;on a prévu de faire des &randos en vélo enfin voilà on voilà;-
+894;3598.672;spk1;-;oui ça c'est agréable;-
+895;3599.581;spk1;spk1 spk2;ici hein ouais;-
+895;3599.581;spk2;spk1 spk2;ouais on se fait des;-
+895;3600.928;spk1;spk1 spk2;ouais hm hm hm ouais;-
+895;3600.928;spk2;spk1 spk2;des petits week-ends comme ça;-
+895;3603.072;spk1;spk1 spk2;ouais ouais ouais;-
+895;3603.072;spk2;spk1 spk2;enfin des journées des;-
+895;3603.072;spk2;spk1 spk2;-;pf
+896;3605.404;spk2;-;c'est et c'est euh;-
+896;3607.397;spk2;-;pas des gens du coin;-
+897;3608.317;spk1;-;voilà;-
+897;3608.317;-;spk1;-;rire
+898;3609.74;spk2;-;ouais non c'est euh;-
+899;3611.62;spk2;spk2 spk1;c'est qu- c'est comme ça c'est c'est je sais pas alors;-
+899;3611.62;spk1;spk2 spk1;c'est comme ça hein ouais hm hm hm;-
+900;3614.165;spk2;-;c'est peut-être moi aussi hein qui euh;-
+900;3616.942;spk2;-;qui va je sais pas euh plus vers les autres gens bah au départ on sait pas trop d'où on vient;-
+901;3620.817;spk2;spk2 spk1;selon qu'on se rencontre et bah c'est euh je sais pas;-
+901;3620.817;spk1;spk2 spk1;bah oui c'est ça c'est ça c'est le hasard qui fait euh;-
+901;3623.947;spk2;spk2 spk1;franchement euh ça j'arrive pas à me l'expliquer hein;-
+901;3623.947;spk1;spk2 spk1;ouais hm hm hm;-
+902;3627.101;spk2;-;mais euh pour en parler avec les gens du coin enfin;-
+902;3629.63;-;spk2;-;tx
+902;3633.289;spk2;-;elle me dit que oui c'est vrai que i- ils fonctionnent beaucoup en famille en vase clos;-
+903;3636.948;spk2;spk2 spk1;hein;-
+903;3636.948;spk1;spk2 spk1;d'accord;-
+903;3637.693;spk2;spk2 spk1;ouais ouais ouais;-
+903;3637.693;spk1;spk2 spk1;hm hm;-
+904;3638.724;spk2;-;que leur porte est peu ouverte euh aux amis en fait et euh;-
+905;3642.265;spk2;spk2 spk1;au partage au c'est je trouve ça euh;-
+905;3642.265;spk1;spk2 spk1;hm hm hm;-
+906;3645.202;spk2;-;ouais je sais pas;-
+907;3646.24;spk1;-;c'est très famille quoi ouais;-
+908;3647.536;spk1;spk1 spk2;ouais;-
+908;3647.536;spk2;spk1 spk2;ouais;-
+909;3647.888;spk2;-;je trouve que ouais c'est c'est un peu en réseau fermé quoi;-
+910;3651.052;spk2;-;alors euh peut-être que euh je connais pas la vie ici des des cités euh;-
+911;3656.706;spk2;spk2 spk1;là y a des banlieues y a des;-
+911;3656.706;spk1;spk2 spk1;oui;-
+912;3658.394;spk2;-;je sais pas comment ils vivent là-bas hein peut-être que;-
+913;3661.524;spk2;-;moi j'ai un peu;-
+914;3662.521;spk1;-;c'est différent du centre;-
+915;3664.125;spk1;spk1 spk2;ouais ouais;-
+915;3664.125;spk2;spk1 spk2;peut-être hein moi j'ai vécu en;-
+916;3666.245;spk2;-;en cité où on était un peu tous ensemble tout le monde euh vivait;-
+916;3669.716;spk2;-;on avait besoin je me souviens de sel;-
+917;3671.226;spk2;spk2 spk1;on allait chez la voisine on avait besoin de ceci;-
+917;3671.226;spk1;spk2 spk1;ouais ouais ouais ouais;-
+918;3674.505;spk2;-;donc euh moi j'ai je pense je gardais ça;-
+919;3676.986;spk2;spk2 spk1;et qu'ici j'ai jamais retrouvé parce que ici c'est;-
+919;3676.986;spk1;spk2 spk1;hm hm hm hm hm;-
+920;3679.515;spk2;-;chacun dans sa maison;-
+921;3680.865;spk2;spk2 spk1;on ferme les portes euh et puis alors;-
+921;3680.865;spk1;spk2 spk1;hm hm hm hm hm;-
+922;3682.74;spk2;-;on se connaît pas et on se regarde euh;-
+922;3684.82;spk2;-;voilà;-
+922;3685.59;spk2;-;enfin ici depuis qu'on est là depuis huit mois;-
+922;3688.12;spk2;-;euh les gens euh;-
+922;3689.53;-;spk2;-;tx
+922;3693.477;spk2;-;je pense que en en nous elle a besoin aussi euh d'aide donc;-
+923;3696.823;spk2;spk2 spk1;voilà elle a fait appel à nous;-
+923;3696.823;spk1;spk2 spk1;ouais ouais ouais ouais ouais;-
+923;3698.991;spk2;spk2 spk1;mais sinon les autres euh non non;-
+923;3698.991;spk1;spk2 spk1;les voisins non sans plus quoi;-
+924;3702.602;spk1;-;chacun chez soi;-
+925;3703.311;spk2;-;moi je m'étais dit euh on va faire euh s- au printemps on va faire euh;-
+925;3706.044;-;spk2;-;tx
+925;3710.448;spk2;-;puis qu'on a envie de rassembler et;-
+925;3712.179;spk2;-;je m'étais dit on va peut-être pouvoir pour les voisins puis je me dis vu comment ça je me dis boh non;-
+926;3716.895;spk1;-;ouais;-
+927;3717.361;spk1;spk1 spk2;hm hm hm;-
+927;3717.361;spk2;spk1 spk2;bah non parce que;-
+927;3719.237;spk1;spk1 spk2;parce que là en plus vous avez la même cour avec euh ouais;-
+927;3719.237;spk2;spk1 spk2;y a pas de portes ouvertes oui;-
+928;3722.968;spk2;-;c'est un monsieur qui est tout seul;-
+929;3724.812;spk1;-;hm hm;-
+930;3725.79;spk2;-;qui travaille à Paris euh qu'on;-
+931;3726.976;spk2;spk2 spk1;voit jamais;-
+931;3726.976;spk1;spk2 spk1;oui;-
+932;3727.55;spk1;-;qui est jamais là;-
+933;3728.295;spk2;-;non bah jamais jamais bon à part le week-end mais euh;-
+933;3731.257;spk2;-;moi j'ai tenté hein de;-
+934;3732.68;spk2;spk2 spk1;bon;-
+934;3732.68;spk1;spk2 spk1;ouais;-
+935;3733.01;spk2;-;de de discuter mais euh;-
+935;3734.752;spk2;-;je pense que c'est la timidité et puis je sais pas;-
+936;3737.545;spk2;spk2 spk1;au point où on dit rien;-
+936;3737.545;spk1;spk2 spk1;ouais hm hm hm;-
+937;3738.656;spk2;-;bah après euh;-
+937;3740.632;-;spk2;-;tx
+938;3741.983;spk1;-;ouais hm;-
+939;3742.853;spk2;-;donc voilà;-
+940;3743.601;spk2;spk2 spk1;après euh;-
+940;3743.601;spk1;spk2 spk1;d'accord hm;-
+940;3744.973;spk2;spk2 spk1;si j'ai répondu à tout euh;-
+940;3744.973;spk1;spk2 spk1;si c'est c'est parfait c'est parfait;-
+940;3748.367;spk2;spk2 spk1;si j'ai trop parlé euh;-
+940;3748.367;spk2;spk2 spk1;-;rire
+940;3748.367;spk1;spk2 spk1;euh c'était parfait;-
+940;3748.367;spk1;spk2 spk1;-;rire
+940;3751.28;spk2;spk2 spk1;parce que bon un peu du langage familier hein mais bon euh;-
+940;3751.28;spk1;spk2 spk1;-;rire
+940;3756.285;spk2;spk2 spk1;non mais c'est vrai qu'on oublie le micro et puis euh;-
+940;3756.285;spk1;spk2 spk1;-;rire
+940;3759.271;spk2;spk2 spk1;on fait comme si euh je sais pas;-
+940;3759.271;spk1;spk2 spk1;hm hm hm hm;-
+940;3761.367;spk2;spk2 spk1;on parlait de soi tout ça;-
+940;3761.367;spk1;spk2 spk1;bah c'est le;-
+941;3763.699;spk1;-;c'est c'est ce qu'on ch- si on arrive à faire ça c'est qu'on;-
+942;3766.395;spk1;spk1 spk2;enfin on est content;-
+942;3766.395;spk2;spk1 spk2;ouais;-
+942;3767.357;spk1;spk1 spk2;-;rire
+942;3767.357;spk2;spk1 spk2;bah écoutez c'est ce qui s'est passé en tout cas j'ai eu de retenue et euh;-
+942;3772.242;spk1;spk1 spk2;non non bah c'est hm;-
+942;3772.242;spk2;spk1 spk2;bon j'ai peut-être un peu trop parlé sincérement j'ai parlé;-
+943;3776.603;spk1;-;c'est c'est s- si vous vous êtes euh à l'aise;-
+944;3779.589;spk1;spk1 spk2;c'est c'est tout ce qu'on cherche;-
+944;3779.589;spk1;spk1 spk2;-;rire
+944;3779.589;spk2;spk1 spk2;oh bah ouais mais moi je suis toujours à l'aise quoi non mais c'est vrai je;-
+945;3785.08;spk2;-;j'ai je s- je suis pas souvent mal;-
+946;3786.814;spk2;spk2 spk1;à l'aise on va dire ouais;-
+946;3786.814;spk1;spk2 spk1;ouais ouais ouais ouais;-
+947;3788.474;spk1;-;oui pourtant comme vous dites c'est pas un situation euh;-
+948;3790.787;spk1;spk1 spk2;voilà vous me connaissez pas j'arrive avec des micros;-
+948;3790.787;spk1;spk1 spk2;-;rire
+948;3790.787;spk2;spk1 spk2;bah ouais non puis Marine quand elle m'a dit euh;-
+949;3795.258;spk2;-;bah c'est c'est les profs de la fac et tout;-
+950;3797.358;spk2;spk2 spk1;alors moi la fac je me dis;-
+950;3797.358;spk1;spk2 spk1;-;rire
+950;3799.47;spk2;spk2 spk1;oh là là elle me dit mais non mais t'inquiètes pas euh;-
+950;3799.47;spk1;spk2 spk1;-;rire
+950;3802.888;spk2;spk2 spk1;non je dis attends c'est s- franchement pas me prendre la tête;-
+950;3802.888;spk1;spk2 spk1;-;rire
+950;3806.771;spk2;spk2 spk1;elle me dit mais non mais non t'inquiète pas;-
+950;3806.771;spk1;spk2 spk1;-;rire
+950;3809.516;spk2;spk2 spk1;ça lui tenait tellement à coeur que vraiment je le sentais ouais;-
+950;3809.516;spk1;spk2 spk1;-;rire
+950;3813.247;spk2;spk2 spk1;ouais ouais;-
+950;3813.247;spk1;spk2 spk1;ouais;-
+951;3813.836;spk2;-;de elle me disait de participer à ça euh;-
+951;3816.112;spk2;-;puis ah bah là elle est à fond hein ça lui plaît;-
+952;3817.854;spk2;spk2 spk1;vachement ce qu'elle fait donc euh;-
+952;3817.854;spk1;spk2 spk1;hm hm hm;-
+953;3820.155;spk1;-;et justement pour faire un lien un peu avec euh;-
+954;3822.732;spk1;-;avec ce qu'elle fait et ce qu'on fait est-ce que vous pensez qu'ici y a une façon de parler à Orléans;-
+955;3827.4;spk2;-;hm;-
+956;3828.102;spk1;-;particulière ?;-
+956;3829.939;spk1;-;euh que ce soit euh des mots que vous ayez entendus ou un accent ou;-
+957;3833.69;spk1;spk1 spk2;je sais pas;-
+957;3833.69;spk2;spk1 spk2;pas une façon de parler mais;-
+958;3834.683;spk2;-;des mots que j'ai appris ici;-
+959;3836.065;spk2;spk2 spk1;que j'utilisais pas avant;-
+959;3836.065;spk1;spk2 spk1;ouais;-
+959;3837.857;spk2;spk2 spk1;alors euh par exemple euh;-
+959;3837.857;spk1;spk2 spk1;vous é- comme quoi ?;-
+960;3840.915;spk2;-;ici j'a- au début on me disait bah tu vas mettre ça aux monstres;-
+961;3844.429;spk1;-;oui;-
+961;3844.429;-;spk1;-;rire
+962;3845.347;spk2;-;aux monstres;-
+962;3847.035;spk2;-;je pensais qu'on se moquait de moi je dis aux mons- c'est quoi les monstres;-
+963;3850.429;spk2;spk2 spk1;et j'ai appris que c'était euh la déchetterie enfin nous ce qu'on appelait;-
+963;3850.429;spk1;spk2 spk1;ouais hm hm hm hm hm hm hm;-
+964;3854.035;spk2;-;ou la canche moi là c'est pareil j'utilisais pas ce mot-là la canche;-
+965;3857.496;spk1;-;je connais pas la canche;-
+966;3858.362;spk2;-;bah c'est pareil une;-
+967;3859.168;spk2;spk2 spk1;déchetterie;-
+967;3859.168;spk1;spk2 spk1;ah;-
+968;3859.802;spk2;-;c'est une canche;-
+969;3860.406;spk1;-;d'accord;-
+970;3861.179;spk2;-;après y a eu euh;-
+970;3862.674;spk2;-;les nourrices quand ils étaient petits euh ça;-
+970;3862.674;-;spk2;-;rire
+970;3865.347;spk2;-;fais-moi un mignon;-
+971;3867.064;spk2;spk2 spk1;alors les enfants ils regardaient la nourrice comme ça;-
+971;3867.064;spk1;spk2 spk1;-;rire
+972;3870.194;spk2;-;ils me regardaient bah je disais je peux pas vous aider;-
+972;3872.603;spk2;-;un mignon on ne sait pas ce que c'est;-
+973;3874.507;spk2;spk2 spk1;un bisou;-
+973;3874.507;spk1;spk2 spk1;-;rire
+974;3876.032;spk2;-;bah ouais;-
+975;3876.484;spk1;-;je connaissais pas non plus;-
+976;3877.589;spk2;-;et euh;-
+977;3878.531;spk2;spk2 spk1;mais des des expressions ouais fais-moi un mignon;-
+977;3878.531;spk1;spk2 spk1;un mignon ah ouais;-
+977;3878.531;spk1;spk2 spk1;-;rire
+978;3882.238;spk2;-;ou alors mais y en a d'autres hein alors on en parle souvent quand on est euh;-
+978;3886.185;spk2;-;ensemble;-
+979;3887.431;spk2;spk2 spk1;des mots c'est des emplois des;-
+979;3887.431;spk1;spk2 spk1;ouais des petits mots comme ça mais sinon voilà;-
+980;3889.464;spk1;-;pas y a pas d'accent enfin vous avez pas repéré des;-
+981;3892.516;spk2;-;non;-
+982;3892.992;spk1;-;non;-
+983;3893.41;spk2;-;à part peut-être si dans des dans des campagnes dans;-
+984;3896.011;spk2;spk2 spk1;des;-
+984;3896.011;spk1;spk2 spk1;hm hm;-
+985;3896.857;spk2;-;des personnes un peu plus âgées qui ont une façon de parler ou;-
+986;3900.564;spk2;spk2 spk1;de s'exprimer je veux dire non enfin vous j'ai pas;-
+986;3900.564;spk1;spk2 spk1;ouais hm hm hm;-
+986;3903.395;spk2;spk2 spk1;j'ai pas trouvé;-
+986;3903.395;spk1;spk2 spk1;non non non;-
+987;3904.828;spk2;-;non;-
+988;3905.355;spk1;-;c'est assez neutre;-
+989;3906.972;spk2;spk2 spk1;bah oui je trouve ouais ouais;-
+989;3906.972;spk1;spk2 spk1;ouais hm;-
+989;3909.164;spk2;spk2 spk1;je vois pas trop la différence avec euh;-
+989;3909.164;spk1;spk2 spk1;-;rire
+989;3911.501;spk2;spk2 spk1;les banlieusards euh;-
+989;3911.501;spk1;spk2 spk1;ouais;-
+990;3913.573;spk2;-;après y a des gens qui ont une façon de;-
+990;3915.741;spk2;-;de s'exprimer parce que dans leur éducation y a eu;-
+991;3918.534;spk2;spk2 spk1;euh mais bon mais sinon y a pas;-
+991;3918.534;spk2;spk2 spk1;-;pf
+991;3918.534;spk1;spk2 spk1;oui oui oui oui hm hm hm hm hm;-
+992;3922.437;spk1;-;Ok;-
+992;3923.716;spk1;-;et une toute dernière question;-
+992;3925.644;spk1;-;dont Marine vous a peut-être parlé;-
+992;3925.644;-;spk1;-;rire
+992;3928.173;spk1;-;dans;-
+993;3930.077;spk1;-;dans l'enquête qui a été qui avait été faite y a quarante ans y avait ils posaient une question culinaire;-
+993;3935.182;spk1;-;sur l'omelette;-
+993;3936.178;spk1;-;en fait;-
+994;3937.11;spk1;spk1 spk2;et du ah non elle vous l'a pas dit;-
+994;3937.11;spk2;spk1 spk2;non non elle me l'a pas dit;-
+995;3938.749;spk1;-;et euh hm;-
+995;3940.148;spk1;-;et donc euh donc ils avaient un certain nombre de questions c'était beaucoup plus fermé en fait;-
+996;3944.456;spk1;spk1 spk2;que ce qu'on essaye de faire là;-
+996;3944.456;spk2;spk1 spk2;avec Marine oui;-
+997;3946.119;spk1;-;et y avait une question qui était euh;-
+997;3948.696;spk1;-;comment est-ce qu'on fait une omelette chez vous ?;-
+997;3951.062;spk1;-;et donc pour eux;-
+997;3951.062;-;spk1;-;rire
+997;3957.365;spk1;-;si vous voulez bien;-
+997;3957.365;-;spk1;-;rire
+998;3958.812;spk2;-;oui;-
+999;3959.077;spk1;-;m'expliquer comment vous faites une omelette;-
+1000;3961.178;spk2;-;alors je vais vous donner deux réponses;-
+1001;3963.106;spk2;spk2 spk1;déjà;-
+1001;3963.106;spk1;spk2 spk1;ah;-
+1001;3964.067;spk2;spk2 spk1;j'en fait pas parce que je n'aime pas les oeufs;-
+1001;3964.067;spk1;spk2 spk1;-;rire
+1001;3966.259;spk2;spk2 spk1;mais quand j'en fais parce que je vis avec des gens qui aiment les oeufs pour les autres;-
+1001;3966.259;spk1;spk2 spk1;pour les autres;-
+1001;3966.259;spk1;spk2 spk1;-;rire
+1002;3970.951;spk2;-;donc euh;-
+1003;3972.62;spk2;spk2 spk1;c'est un peu surprenant comme question bah je vais vous la détailler hein alors je prends un petit;-
+1003;3972.62;spk1;spk2 spk1;-;rire
+1003;3972.62;spk1;spk2 spk1;-;rire
+1004;3978.562;spk2;-;euh un récipient;-
+1005;3980.417;spk1;-;hm;-
+1006;3980.802;spk2;-;je casse mes oeufs;-
+1006;3982.153;-;spk2;-;bb
+1006;3983.215;spk2;-;dans le récipient;-
+1007;3984.542;spk2;spk2 spk1;-;rire
+1007;3984.542;spk1;spk2 spk1;-;rire
+1007;3986.326;spk2;spk2 spk1;je sais pas si c'est la réponse qu'il vous faut d'accord;-
+1007;3986.326;spk1;spk2 spk1;si si si si c'est ça;-
+1007;3986.326;spk1;spk2 spk1;-;rire
+1008;3989.408;spk2;-;ensuite euh bah j'ajoute euh;-
+1008;3991.528;spk2;-;parce que c'est pas parce que j'aime pas ça que je vais faire euh;-
+1008;3994.273;spk2;-;voilà je rajoute souvent du persil euh;-
+1008;3996.778;spk2;-;alors j'ai souvent sous forme lyophilisée de l'ail ou les choses comme ça;-
+1008;4000.28;spk2;-;je bats;-
+1008;4001.205;spk2;-;je mets du beurre dans ma poêle je vide mon omelette;-
+1008;4004.367;spk2;-;enfin mes oeufs et puis;-
+1008;4006.362;spk2;-;j'attends que ça cuise;-
+1008;4007.323;spk2;-;je la replie;-
+1008;4007.323;-;spk2;-;b
+1008;4008.477;spk2;-;en deux;-
+1008;4009.895;spk2;-;et puis bah voilà;-
+1009;4010.953;spk1;-;parfait;-
+1009;4012.227;-;spk1;-;rire
+1010;4013.333;spk1;spk1 spk2;-;rire
+1010;4013.333;spk2;spk1 spk2;voilà;-
+1010;4014.342;spk1;spk1 spk2;c'est parfait;-
+1010;4014.342;spk2;spk1 spk2;bah c'est pas trop compliqué comme recette;-
+1010;4016.217;spk1;spk1 spk2;non non non non non on demande pas le;-
+1010;4016.217;spk1;spk1 spk2;-;rire
+1010;4016.217;spk2;spk1 spk2;de toute façon on est;-
+1010;4016.217;spk2;spk1 spk2;-;pi
+1010;4019.727;spk1;spk1 spk2;justement;-
+1010;4019.727;spk1;spk1 spk2;-;rire
+1010;4019.727;spk2;spk1 spk2;vous auriez demandé le couscous j'aurais pas pu vous répondre;-
+1010;4022.612;spk1;spk1 spk2;donc non c'est parfait;-
+1010;4022.612;spk2;spk1 spk2;-;rire

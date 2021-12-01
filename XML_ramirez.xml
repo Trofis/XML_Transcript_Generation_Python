@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dialogue>
+   <référence>ESLO2_ENT_1002_C.trs</référence>
+   <audio_filename>ESLO2_ENT_1002</audio_filename>
+   <scribe>a.rochon</scribe>
+   <version>19</version>
+   <version_date>131004</version_date>
+   <id_speaker_1>spk1</id_speaker_1>
+   <name_speaker_1>ch_CD2</name_speaker_1>
+   <dialect_speaker_1>native</dialect_speaker_1>
+   <id_speaker_2>spk2</id_speaker_2>
+   <name_speaker_2>RL2</name_speaker_2>
+   <dialect_speaker_2>native</dialect_speaker_2>
+   <turns>
+      <turn1>
+         <id_Turn>1</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>0</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>donc euh</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>1.791</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>peut-être pour commencer une euh</text>
+               <event>-</event>
+            </sentence2>
+            <sentence3>
+               <time>4.712</time>
+               <speaker>-</speaker>
+               <simultaneous>spk1</simultaneous>
+               <text>-</text>
+               <event>bb</event>
+            </sentence3>
+         </sentences>
+      </turn1>
+      <turn2>
+         <id_Turn>2</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>5.048</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>vous pourriez euh</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>7.145</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>me parler un petit peu de votre parcours euh personnel et enfin</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn2>
+      <turn3>
+         <id_Turn>3</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>10.962</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>hm</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn3>
+      <turn4>
+         <id_Turn>4</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>11.37</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>depuis combien de temps est-ce que vous êtes originaire d'Orléans ou de sa région ?</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn4>
+      <turn5>
+         <id_Turn>5</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>15.072</time>
+               <speaker>spk1</speaker>
+               <simultaneous>spk1 spk2</simultaneous>
+               <text>ou</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>15.072</time>
+               <speaker>spk2</speaker>
+               <simultaneous>spk1 spk2</simultaneous>
+               <text>hm hm</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn5>
+      <turn6>
+         <id_Turn>6</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>15.871</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>pas</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>16.429</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>et euh</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn6>
+      <turn7>
+         <id_Turn>7</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>17.371</time>
+               <speaker>spk1</speaker>
+               <simultaneous>spk1 spk2</simultaneous>
+               <text>-</text>
+               <event>rire</event>
+            </sentence1>
+            <sentence2>
+               <time>17.371</time>
+               <speaker>spk2</speaker>
+               <simultaneous>spk1 spk2</simultaneous>
+               <text>alors mon parcours</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn7>
+      <turn8>
+         <id_Turn>8</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>19.496</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>euh bah moi je suis de la banlieue parisienne</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn8>
+      <turn9>
+         <id_Turn>9</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>21.808</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>d'accord</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn9>
+      <turn10>
+         <id_Turn>10</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>22.438</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>donc euh banlieue nord de Paris</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn10>
+      <turn11>
+         <id_Turn>11</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>24.39</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>d'accord</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn11>
+      <turn12>
+         <id_Turn>12</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>25.044</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>j'ai été élevée euh dans une cité HLM</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn12>
+      <turn13>
+         <id_Turn>13</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>27.308</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>hm</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn13>
+      <turn14>
+         <id_Turn>14</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>28.515</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>et euh assez longtemps quand même et puis euh</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>31.596</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>lorsque j'ai rencontré donc euh le père de Marine</text>
+               <event>-</event>
+            </sentence2>
+            <sentence3>
+               <time>34.792</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>euh</text>
+               <event>-</event>
+            </sentence3>
+            <sentence4>
+               <time>36.594</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>il vivait aussi dans une cité HLM mais une autre cité HLM</text>
+               <event>-</event>
+            </sentence4>
+            <sentence5>
+               <time>39.796</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>lorsqu'on s'est rencontré il était plus âgé que moi</text>
+               <event>-</event>
+            </sentence5>
+            <sentence6>
+               <time>42.493</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>euh bah qu'on a décidé de construire euh</text>
+               <event>-</event>
+            </sentence6>
+            <sentence7>
+               <time>45.334</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>une vie euh de famille ensemble</text>
+               <event>-</event>
+            </sentence7>
+            <sentence8>
+               <time>47.765</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>euh on a un peu réfléchi sur ce que euh s-</text>
+               <event>-</event>
+            </sentence8>
+            <sentence9>
+               <time>52.127</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>que la vie était en banlieue</text>
+               <event>-</event>
+            </sentence9>
+         </sentences>
+      </turn14>
+      <turn15>
+         <id_Turn>15</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>53.718</time>
+               <speaker>spk2</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>ce qu'on avait vécu</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>53.718</time>
+               <speaker>spk1</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>oui oui</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn15>
+      <turn16>
+         <id_Turn>16</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>55.305</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>et on s'est dit euh ben on n'a pas envie euh</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn16>
+      <turn17>
+         <id_Turn>17</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>57.545</time>
+               <speaker>spk2</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>on avait pas envie de euh proposer ça à nos enfants</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>57.545</time>
+               <speaker>spk1</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>de ça ouais hm</text>
+               <event>-</event>
+            </sentence2>
+         </sentences>
+      </turn17>
+      <turn18>
+         <id_Turn>18</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>60.771</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>donc euh</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>62.235</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>bon c'était assez compliqué moi j'étais jeune hein je l'ai rencontré j'avais euh</text>
+               <event>-</event>
+            </sentence2>
+            <sentence3>
+               <time>65.704</time>
+               <speaker>spk2</speaker>
+               <simultaneous>-</simultaneous>
+               <text>quinze ans</text>
+               <event>-</event>
+            </sentence3>
+         </sentences>
+      </turn18>
+      <turn19>
+         <id_Turn>19</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>66.526</time>
+               <speaker>spk1</speaker>
+               <simultaneous>-</simultaneous>
+               <text>oui</text>
+               <event>-</event>
+            </sentence1>
+         </sentences>
+      </turn19>
+      <turn20>
+         <id_Turn>20</id_Turn>
+         <sentences>
+            <sentence1>
+               <time>66.983</time>
+               <speaker>spk2</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>on s'est marié très enfin moi j'étais très jeune lui il était plus âgé</text>
+               <event>-</event>
+            </sentence1>
+            <sentence2>
+               <time>66.983</time>
+               <speaker>spk1</speaker>
+               <simultaneous>spk2 spk1</simultaneous>
+               <text>-</text>
+               <event>rire</event>
+            </sentence2>
+         </sentences>
+      </turn20>
+   </turns>
+</dialogue>
